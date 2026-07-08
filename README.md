@@ -1,11 +1,11 @@
 # YX 科技日报
 
-每日科技前沿资讯。
+每日自动抓取科技前沿资讯，整理成 Markdown 日报。
 
 ## 今日日报
 
 
-> 自动生成于 2026-07-08 11:08 (北京时间)
+> 自动生成于 2026-07-08 11:32 (北京时间)
 
 ## 36氪
 
@@ -15,15 +15,23 @@
 4. [36氪独家 | 快造科技完成10亿元融资，为一级市场消费级3D打印最大单笔融资](https://36kr.com/p/3885728813691145?f=rss)
 5. [8点1氪丨前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭；苹果折叠屏已在量产；特朗普呼吁购买戴尔电脑，引发戴尔暴涨百亿美元](https://36kr.com/p/3886238403129353?f=rss)
 6. [「德睿智药」获5200万美元B轮融资，AI设计的减肥药已进入3期临床｜36氪首发](https://36kr.com/p/3885479689465858?f=rss)
+7. [瑞为技术暗盘破发，收盘跌17%｜敲钟时刻](https://36kr.com/p/3885560015220997?f=rss)
+8. [易控智驾暗盘破发：盘中一度跌近两成、收涨4%｜敲钟时刻](https://36kr.com/p/3885481886674951?f=rss)
+9. [氪星晚报 ｜苹果折叠屏已在量产；潘功胜：香港可以抓住有利时机，吸引更多主权财富和国际企业到港发债融资](https://36kr.com/p/3885457443385346?f=rss)
+10. [不做fast follow的人，都想创造一个新的世界丨36氪离线聚会第三期](https://36kr.com/p/3885415199076352?f=rss)
 
 ## IT之家
 
-1. [三星近 5 万名员工喜提 108.34 万股股票，人均价值约 700 万韩元](https://www.ithome.com/0/973/893.htm)
-2. [姚顺雨 OpenAI 前同事田永龙被曝加入腾讯，混元多模态有望迎来新负责人](https://www.ithome.com/0/973/892.htm)
-3. [SpaceX 申请部署最多 10 万颗卫星，拟打造 AI 时代太空通信底座](https://www.ithome.com/0/973/891.htm)
-4. [缺水缺电：报道称韩国 1350 万亿韩元半导体集群建设遇基建挑战](https://www.ithome.com/0/973/890.htm)
-5. [音质升级：Marshall 推出家用蓝牙音箱 Acton IV、Stanmore IV](https://www.ithome.com/0/973/889.htm)
-6. [滴滴驰援广西暴雨洪涝灾害，首批准备 1000 箱生活必备物资](https://www.ithome.com/0/973/887.htm)
+1. [StatCounter 称 6 月全球桌面系统中 Windows 占比首次跌破 60%](https://www.ithome.com/0/973/914.htm)
+2. [联想推出拯救者随身 WiFi LM50S：150Mbps 速率，3000mAh 电池](https://www.ithome.com/0/973/907.htm)
+3. [2025 年度国家最高科学技术奖揭晓，我国锂电池领域奠基人陈立泉、机载脉冲多普勒雷达技术奠基人贲德获奖](https://www.ithome.com/0/973/906.htm)
+4. [Rapidus 拟定 2nm 晶圆代工每片 300 万日元起，称定价不能输给台积电](https://www.ithome.com/0/973/904.htm)
+5. [迅雷传播盗版《我是刑警》被判赔给爱奇艺 786 万元，法院明确不能仅凭“技术中立”规避侵权责任](https://www.ithome.com/0/973/903.htm)
+6. [标致 CEO 法维重申东风平台新车是“真标致”，但不会卖到欧洲](https://www.ithome.com/0/973/894.htm)
+7. [三星近 5 万名员工喜提 108.34 万股股票，人均价值约 700 万韩元](https://www.ithome.com/0/973/893.htm)
+8. [姚顺雨 OpenAI 前同事田永龙被曝加入腾讯，混元多模态有望迎来新负责人](https://www.ithome.com/0/973/892.htm)
+9. [SpaceX 申请部署最多 10 万颗卫星，拟打造 AI 时代太空通信底座](https://www.ithome.com/0/973/891.htm)
+10. [缺水缺电：报道称韩国 1350 万亿韩元半导体集群建设遇基建挑战](https://www.ithome.com/0/973/890.htm)
 
 ## 少数派
 
@@ -32,22 +40,37 @@
 3. [社区速递 148 | 派友的全屋智能实操、水月雨布丁耳机与MUJI可调节毛巾枕](https://sspai.com/post/112017)
 4. [用 Option 给 macOS 操作加点料](https://sspai.com/post/73385)
 5. [新手日记的「为什么」与「写什么」](https://sspai.com/post/111655)
+6. [派早报：Xbox 启动史上最大的业务重组计划等](https://sspai.com/post/112010)
+7. [派评 | 近期值得关注的 App](https://sspai.com/post/111999)
+8. [iPhone Air 当主力机用了三个多月后，我为什么还是换不掉它](https://sspai.com/post/111113)
+9. [自动给文章术语加百科链接，这个方案一分钟搞定](https://sspai.com/post/111702)
+10. [派早报：阿里禁用 Claude 模型](https://sspai.com/post/111973)
 
 ## 爱范儿
 
-1. [用美国豆包做了个 app，停不下来了！](https://www.ifanr.com/1671236?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [早报｜曝苹果折叠屏iPhone已在量产/DeepSeek或自研AI推理芯片/今年618手机销量同比下滑13%](https://www.ifanr.com/1671233?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [极飞发布了空中及地面农业机器人，打农药这事儿基本不需要人力参与了](https://www.ifanr.com/1671223?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [机器人走进产线「打工」，至简动力不想让具身智能停在 PPT 上](https://www.ifanr.com/1671185?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [Marshall BROMLEY 450 派对音响：有音效灯效和 40 小时续航，麦克风吉他都能一包带走](https://www.ifanr.com/1671062?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [Taycan 和纯电 Macan 断档，保时捷纯电悬了](https://www.ifanr.com/1671212?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [用美国豆包做了个 app，停不下来了！](https://www.ifanr.com/1671236?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [早报｜曝苹果折叠屏iPhone已在量产/DeepSeek或自研AI推理芯片/今年618手机销量同比下滑13%](https://www.ifanr.com/1671233?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [极飞发布了空中及地面农业机器人，打农药这事儿基本不需要人力参与了](https://www.ifanr.com/1671223?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [机器人走进产线「打工」，至简动力不想让具身智能停在 PPT 上](https://www.ifanr.com/1671185?utm_source=rss&utm_medium=rss&utm_campaign=)
+6. [Marshall BROMLEY 450 派对音响：有音效灯效和 40 小时续航，麦克风吉他都能一包带走](https://www.ifanr.com/1671062?utm_source=rss&utm_medium=rss&utm_campaign=)
+7. [刷完 Fable 5 爆火玩法，我发现自己用 AI 第一步就错了](https://www.ifanr.com/1671120?utm_source=rss&utm_medium=rss&utm_campaign=)
+8. [早报｜曝华为Mate90将搭载「韬定律」新麒麟芯片/英特尔上调CPU售价/企业微信发布AI录音硬件](https://www.ifanr.com/1671116?utm_source=rss&utm_medium=rss&utm_campaign=)
+9. [预售 25.98 万元起！全新坦克 300 轴距加长，舒适性大提升](https://www.ifanr.com/1671103?utm_source=rss&utm_medium=rss&utm_campaign=)
+10. [纯电 C 级、燃油小 G，奔驰史上最大新车潮要来了](https://www.ifanr.com/1671075?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 钛媒体
 
-1. [AI猜球总翻车？世界杯给了大模型一次压力测试](https://www.tmtpost.com/8052191.html)
-2. [将多色3D打印提速5倍，消费级3D打印赛道迎来今年最大融资](https://www.tmtpost.com/8056823.html)
-3. [Blueprints on the Dark Web: How India’s Epic Apple Leak Shattered the Secrecy of the Tech Supply Chain](https://www.tmtpost.com/8056862.html)
-4. [实测微信小微：一个“生在微信里”的AI，边界在哪里](https://www.tmtpost.com/8054184.html)
-5. [涌入巴西的中国创业者：推开一扇门，撞上四面墙](https://www.tmtpost.com/8056356.html)
+1. [泡泡玛特“出尔反尔”](https://www.tmtpost.com/8056733.html)
+2. [姚顺雨的半年考，Hy3的“三板斧”](https://www.tmtpost.com/8056549.html)
+3. [800万个AI角色，被大厂亲手关掉](https://www.tmtpost.com/8056813.html)
+4. [依赖谷歌、TikTok，流量“中间商”米多多闯港股：三年累亏超4100万美元](https://www.tmtpost.com/8056810.html)
+5. [Momenta今日港交所挂牌，市值突破700亿港元](https://www.tmtpost.com/8056886.html)
+6. [腾讯“置换”快手：留下身体，带走心脏](https://www.tmtpost.com/8056824.html)
+7. [为什么更好的技术反而让股价下跌？华为韬定律的V1/V2反差揭示投资认知周期](https://www.tmtpost.com/8055339.html)
+8. [资本疯抢、玩家扎堆，脑机接口真的要来了？](https://www.tmtpost.com/8056853.html)
+9. [AI猜球总翻车？世界杯给了大模型一次压力测试](https://www.tmtpost.com/8052191.html)
+10. [将多色3D打印提速5倍，消费级3D打印赛道迎来今年最大融资](https://www.tmtpost.com/8056823.html)
 
 ## 雷锋网
 
@@ -56,6 +79,20 @@
 3. [ICML 2026 开幕，清华团队获最佳论文奖，DeepMind 经典巨作拿下时间检验奖](https://www.leiphone.com/category/academic/GqOdEOoGq3kVosQr.html)
 4. [Kimi K2.7 Code 有多能打？找 Bug，写 3D 游戏，2000 行代码砍掉 55％](https://www.leiphone.com/category/industrynews/NbapvQnjehTvbr0Y.html)
 5. [支付宝AI生态X申通快递：一句话就能发快递！](https://www.leiphone.com/category/industrynews/8XvhFecsSPFSXrO0.html)
+6. [讯飞医疗全栈AI能力亮相2026年数智医学大会，锚定四层创新赋能医疗高质量发展](https://www.leiphone.com/category/industrynews/t6TVK2lTa87laPgR.html)
+7. [拼多多紧急捐赠1000万元，驰援广西防汛救灾](https://www.leiphone.com/category/industrynews/TVh2aFeqiItJpsTr.html)
+8. [拼多多紧急捐赠1000万元，驰援广西防汛救灾](https://www.leiphone.com/category/industrynews/1Zie02PnDUy7idLJ.html)
+9. [ICML 精选Spotlight Poster汇总：Session 2](https://www.leiphone.com/category/private/fmPqPwecmV4WrVNi.html)
+10. [WAIC 2026｜嘉宾阵容公布：从模型、终端到基础设施，重新理解 AI 记忆](https://www.leiphone.com/category/private/ZU11NTHV5s69dgDh.html)
+
+## V2EX 热议
+
+1. [同事送了个洗碗机之后回不去了](https://www.v2ex.com/t/1225553) 「生活」 — 💬 143
+2. [fcodex 小站开业，评论送 5 额度,倍率低至:0.07x;plus 0.11x;pro 号池倍率 0.25x](https://www.v2ex.com/t/1225627) 「推广」 — 💬 120
+3. [华为天才少年吐槽 DeepSeek 面试不规范，程序员的你怎么看？](https://www.v2ex.com/t/1225610) 「职场话题」 — 💬 105
+4. [为什么中央政府不管控国人使用外国大模型？](https://www.v2ex.com/t/1225718) 「问与答」 — 💬 99
+5. [银行科技欲离职求打醒](https://www.v2ex.com/t/1225545) 「职场话题」 — 💬 75
+6. [面了个虚拟货币相关的菲律宾公司，转正后去东京可以去吗](https://www.v2ex.com/t/1225533) 「职场话题」 — 💬 62
 
 ## Hacker News
 

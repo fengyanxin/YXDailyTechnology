@@ -25,12 +25,12 @@ FETCH_TIMEOUT = 12
 
 # ponytail: 中文源在前、英文在后；单源失败不影响整体
 CN_RSS_SOURCES: list[tuple[str, str, int]] = [
-    ("36氪", "https://36kr.com/feed", 6),
-    ("IT之家", "https://www.ithome.com/rss/", 6),
-    ("少数派", "https://sspai.com/feed", 5),
-    ("爱范儿", "https://www.ifanr.com/feed", 5),
-    ("钛媒体", "https://www.tmtpost.com/rss.xml", 5),
-    ("雷锋网", "https://www.leiphone.com/feed", 5),
+    ("36氪", "https://36kr.com/feed", 10),
+    ("IT之家", "https://www.ithome.com/rss/", 10),
+    ("少数派", "https://sspai.com/feed", 10),
+    ("爱范儿", "https://www.ifanr.com/feed", 10),
+    ("钛媒体", "https://www.tmtpost.com/rss.xml", 10),
+    ("雷锋网", "https://www.leiphone.com/feed", 10),
 ]
 
 EN_RSS_SOURCES: list[tuple[str, str, int]] = [

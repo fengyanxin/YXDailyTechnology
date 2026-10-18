@@ -5,33 +5,33 @@
 ## 今日日报
 
 
-> 自动生成于 2026-10-17 11:35 (北京时间)
+> 自动生成于 2026-10-18 11:42 (北京时间)
 
 ## IT之家
 
-1. [为避免银行存款大量流失，花旗、美银出手限制智能体访问客户账户](https://www.ithome.com/1/014/260.htm)
-2. [行业首个基于确定性网络的智能体互联平台 AXP 在南京发布：支持百万级智能体注册接入、十万级智能体同时运行](https://www.ithome.com/1/014/259.htm)
-3. [Win11 用户还能再用 3 年：微软老牌虚拟化组件 App-V Server 扩展支持至 2029 年](https://www.ithome.com/1/014/258.htm)
-4. [R 星技术总监菲尔 · 胡克：《GTA 6》的开发工作会持续到最后一刻](https://www.ithome.com/1/014/256.htm)
-5. [长安汽车新任董事长赵非称国内车市下滑严重：但海外还有机会，要全力以赴聚焦海外发展](https://www.ithome.com/1/014/255.htm)
-6. [微软发布 Win11 26H1 28120.3272 预览版：新增光标指示器，修复音频组件致部分游戏 / 应用崩溃问题](https://www.ithome.com/1/014/254.htm)
-7. [纯血鸿蒙智行再进化？曝智界独立造车资质备案中，通过后新车尾标将变更为“智界汽车”](https://www.ithome.com/1/014/253.htm)
-8. [工信部副部长熊继军：上半年储能电池产量超 420GWh，坚决防范“内卷式”竞争](https://www.ithome.com/1/014/252.htm)
-9. [小米准备 REDMI Book 16 2027 笔电，可选英特尔酷睿 5 处理器 320](https://www.ithome.com/1/014/251.htm)
-10. [微软发布法律版 Copilot：律师的 AI 新同事，整合审查合同等超 20 项技能](https://www.ithome.com/1/014/250.htm)
+1. [太空水稻再繁育！神二十三乘组完成新一批样品采集播种](https://www.ithome.com/1/014/475.htm)
+2. [中国移动香港建成全港首个 U6GHz 网络，可实现 3Gbps 以上的下载速率](https://www.ithome.com/1/014/468.htm)
+3. [中奖者并非随机选出，马斯克就百万美元选民抽奖欺诈诉讼达成和解](https://www.ithome.com/1/014/467.htm)
+4. [创历史同期新高：今年前三季度全国铁路发送旅客 37.1 亿人次，同比增长 4.8%](https://www.ithome.com/1/014/466.htm)
+5. [山灵流媒体解码前级耳放一体机 SM50 开售：ES9039Q2M DAC 芯片，首发 2598 元](https://www.ithome.com/1/014/465.htm)
+6. [DOOGEE Note60 W 系列手机亮相：6.38 英寸 90Hz 阔面屏设计，撞脸华为 Pura X View](https://www.ithome.com/1/014/464.htm)
+7. [陈立武：美国政府不会干预英特尔经营，公司重组工作已完成 80%](https://www.ithome.com/1/014/463.htm)
+8. [iQOO Neo12 手机官宣搭载旗舰 16 机型同款超感触控芯片，支持至高 5000Hz 瞬时触控采样率](https://www.ithome.com/1/014/461.htm)
+9. [零跑 A10s 上市：全新镜夜黑外观、505km 续航，9.28 万元](https://www.ithome.com/1/014/460.htm)
+10. [研究发现：全麻手术中佩戴降噪耳机可降低术后恶心呕吐概率](https://www.ithome.com/1/014/459.htm)
 
 ## 少数派
 
-1. [本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/116423)
-2. [「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式](https://sspai.com/post/114836)
-3. [一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验](https://sspai.com/post/115679)
-4. [让读书笔记不再吃灰：我做了一款跨平台书摘管理工具](https://sspai.com/post/115688)
-5. [派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本](https://sspai.com/post/116355)
-6. [新玩意 253｜少数派的编辑们最近买了啥？](https://sspai.com/post/116246)
-7. [顺应变化，重申标准：《少数派创作手册》修订说明](https://sspai.com/post/116181)
-8. [学得会的快捷指令，零基础入门苹果效率魔法](https://sspai.com/post/116182)
-9. [App+1｜Mangata：把每次散步当作一次探索旅行](https://sspai.com/post/115238)
-10. [派早报：Mozilla 推出企业版火狐浏览器、DLSS 5 最新模型即将推送等](https://sspai.com/post/116193)
+1. [被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？](https://sspai.com/post/104231)
+2. [本周看什么 | 最近值得一看的 13 部作品](https://sspai.com/post/116423)
+3. [「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式](https://sspai.com/post/114836)
+4. [一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验](https://sspai.com/post/115679)
+5. [让读书笔记不再吃灰：我做了一款跨平台书摘管理工具](https://sspai.com/post/115688)
+6. [派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本](https://sspai.com/post/116355)
+7. [新玩意 253｜少数派的编辑们最近买了啥？](https://sspai.com/post/116246)
+8. [顺应变化，重申标准：《少数派创作手册》修订说明](https://sspai.com/post/116181)
+9. [学得会的快捷指令，零基础入门苹果效率魔法](https://sspai.com/post/116182)
+10. [App+1｜Mangata：把每次散步当作一次探索旅行](https://sspai.com/post/115238)
 
 ## 爱范儿
 
@@ -48,73 +48,73 @@
 
 ## 钛媒体
 
-1. [公用事业股高股息，而且比其他AI概念股更稳](https://www.tmtpost.com/8171902.html)
-2. [为了查“公园哪个门人最多”，一批腾讯AI智能体，在高德上折腾了11天](https://www.tmtpost.com/8171881.html)
-3. [溢价上万元、首发秒售罄，AI也抢不到iPhone Duo](https://www.tmtpost.com/8171849.html)
-4. [【数智周报】   英伟达CEO黄仁勋称会对开发不安全AI软件的客户断供芯片；字节跳动Seed单设安全与对齐部门;微软在AI改革中重组Azure云部门](https://www.tmtpost.com/8171854.html)
-5. [14.8% 的 AI 商品，撑起全球贸易近半增量：买家集中在几家云厂商](https://www.tmtpost.com/8171227.html)
-6. [5000亿“隐形矿王”，豪掷12亿做LP](https://www.tmtpost.com/8171514.html)
-7. [论人情世故，腾讯这批闯祸的Agent上大分了](https://www.tmtpost.com/8171428.html)
-8. [Edge AI Daily 早报（10月17日）](https://www.tmtpost.com/8171801.html)
-9. [兑现度的胜利，星尘智能再融10亿](https://www.tmtpost.com/8171189.html)
-10. [BJ's Wholesale Club正按预期发展，这只股票还有更大上涨空间](https://www.tmtpost.com/8171643.html)
+1. [贝莱德的债券大师正在以下3个领域寻找收益](https://www.tmtpost.com/8172244.html)
+2. [耐克股价一直表现低迷，为什么现在该看涨了](https://www.tmtpost.com/8172241.html)
+3. [马斯克极度浓缩的一生](https://www.tmtpost.com/8171910.html)
+4. [当烧钱不再是通行证：微软、Meta踩刹车，苹果成了AI赢家](https://www.tmtpost.com/8171909.html)
+5. [当地方政府成为机器人的第一大客户](https://www.tmtpost.com/8172207.html)
+6. [小红书的AI，开始和自己的生意算账](https://www.tmtpost.com/8172205.html)
+7. [动辄千集的AI短剧，越长越赚钱？](https://www.tmtpost.com/8172188.html)
+8. [赴港首秀尴尬破发，港股不买“非洲手机之王”的账？](https://www.tmtpost.com/8172160.html)
+9. [出海非洲：中国企业布局资源，真正的考验在矿山之外](https://www.tmtpost.com/8171412.html)
+10. [飞起来的特斯拉：贾跃亭的“生态化反”，被马斯克实现了](https://www.tmtpost.com/8172149.html)
 
 ## 雷锋网
 
-1. [抖音电商公布双11首日数据：店播成交额破千万元商家数量同比增长96%](https://www.leiphone.com/category/industrynews/qgqGTqVLQMmIkNdP.html)
-2. [JAECOO × Momenta完成首个无接管凯旋门智驾挑战，联合征服巴黎“最难魔鬼环岛”](https://www.leiphone.com/category/industrynews/LDt2TEiUf3wgi2Os.html)
-3. [推翻一切！Nick Cammarata 万字长文宣告，AI 不是黑箱，99% 神经元清晰可见](https://www.leiphone.com/category/yanxishe/Vr0JmbkUeZV5D9Qz.html)
-4. [长鑫科技市值两月内跌去1万亿；阿里加码AI硬件品牌，天猫、速卖通联动；国行版苹果AI有望12月上线，百度、阿里参与合作丨雷峰早报](https://www.leiphone.com/category/zaobao/EReMkZNn9w5H85Tf.html)
-5. [京东左琦发布诋毁信息被起诉，再发谣言后抖音电商表示将追加起诉](https://www.leiphone.com/category/industrynews/s92jb2hngPJlF9Gj.html)
-6. [中控技术接入千问办公，打造流程工业领域AI Native标杆企业](https://www.leiphone.com/category/industrynews/8IM46Vzpf7IFumo7.html)
-7. [抖省省诞生7个月：引流灌溉、重金猛推，日活2000万后急速降温](https://www.leiphone.com/category/industrynews/14z0WQVo47kzEmxJ.html)
-8. [医美消费走向专业化、个性化，美团发布2026北极星医美榜](https://www.leiphone.com/category/industrynews/6nUC46T5N52m2W2V.html)
-9. [Kling 4.0正式上线：10-bit HDR、30秒原生直出 刷新视频模型新基准](https://www.leiphone.com/category/industrynews/1GERVRJ72xJKmsus.html)
-10. [阿里千问上车宝马iX3](https://www.leiphone.com/category/industrynews/1zjGZ4srbO3kyVEw.html)
+1. [12.88万起、华为电驱+L4同源智驾，Ray7能成为埃安年轻化的答卷吗？](https://www.leiphone.com/category/transportation/F3nQwjeqDO0BtrQ0.html)
+2. [双11 iPhone Duo平台大战，比的就是货源，记者实测：只有苹果官网、天猫可下单](https://www.leiphone.com/category/industrynews/LMBQVV27PkpS0P58.html)
+3. [抖音商城双11首日数据：消费券带动破千万商家数同比增长74%](https://www.leiphone.com/category/industrynews/JjzV775vQhP9EgGN.html)
+4. [抖音电商公布双11首日数据：店播成交额破千万元商家数量同比增长96%](https://www.leiphone.com/category/industrynews/qgqGTqVLQMmIkNdP.html)
+5. [JAECOO × Momenta完成首个无接管凯旋门智驾挑战，联合征服巴黎“最难魔鬼环岛”](https://www.leiphone.com/category/industrynews/LDt2TEiUf3wgi2Os.html)
+6. [推翻一切！Nick Cammarata 万字长文宣告，AI 不是黑箱，99% 神经元清晰可见](https://www.leiphone.com/category/yanxishe/Vr0JmbkUeZV5D9Qz.html)
+7. [长鑫科技市值两月内跌去1万亿；阿里加码AI硬件品牌，天猫、速卖通联动；国行版苹果AI有望12月上线，百度、阿里参与合作丨雷峰早报](https://www.leiphone.com/category/zaobao/EReMkZNn9w5H85Tf.html)
+8. [京东左琦发布诋毁信息被起诉，再发谣言后抖音电商表示将追加起诉](https://www.leiphone.com/category/industrynews/s92jb2hngPJlF9Gj.html)
+9. [中控技术接入千问办公，打造流程工业领域AI Native标杆企业](https://www.leiphone.com/category/industrynews/8IM46Vzpf7IFumo7.html)
+10. [抖省省诞生7个月：引流灌溉、重金猛推，日活2000万后急速降温](https://www.leiphone.com/category/industrynews/14z0WQVo47kzEmxJ.html)
 
 ## V2EX 热议
 
-1. [做了个网页电台：随机一站，听听世界上 3.5 万个电台此刻在播什么](https://www.v2ex.com/t/1249321) 「分享创造」 — 💬 184
-2. [如何评价 rea 逆向一切？](https://www.v2ex.com/t/1249389) 「程序员」 — 💬 58
-3. [有目前稳定可靠的订阅 gpt plus 的方法吗，分享分享，人在大陆](https://www.v2ex.com/t/1249365) 「OpenAI」 — 💬 48
-4. [抑郁症的人到底在想些什么？](https://www.v2ex.com/t/1249406) 「生活」 — 💬 40
-5. [有用过迷你主机的 V 友吗](https://www.v2ex.com/t/1249311) 「硬件」 — 💬 36
-6. [咋卖啥的都非要搞个直播呢](https://www.v2ex.com/t/1249355) 「生活」 — 💬 35
+1. [0 基础入行金融需要多久？](https://www.v2ex.com/t/1249646) 「职场话题」 — 💬 76
+2. [AIxAPI: V 站福利 AI 中转站 注册送$3 留 ID 送 $10 API 体验额度](https://www.v2ex.com/t/1249583) 「推广」 — 💬 54
+3. [肉身在墙外，现在做物理机远程 Claude 的生意怎么样？](https://www.v2ex.com/t/1249581) 「程序员」 — 💬 36
+4. [deepseek-v4.1-flash-1017 发布了](https://www.v2ex.com/t/1249603) 「程序员」 — 💬 36
+5. [AI 写代码的速度已经超过你的阅读速度，你会放心把 Code Review 也交给 AI 吗？](https://www.v2ex.com/t/1249607) 「程序员」 — 💬 29
+6. [为什么还有人宣场读书无用论？](https://www.v2ex.com/t/1249681) 「问与答」 — 💬 28
 
 ## Hacker News
 
-1. [Butlerian Jihad](https://dune.fandom.com/wiki/Butlerian_Jihad)
-2. [Flexport Is Hiring a Biz Ops Leader in Office of CEO](https://www.flexport.com/company/careers/)
-3. [Nine-Inch Snails](https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/)
-4. [FLUX 3 Image Klein](https://bfl.ai/blog/flux-3-image-klein)
-5. [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
-6. [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/)
-7. [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
-8. [C++26: The New Debugging Header](https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging)
+1. [NY announces game ownership bill requiring ownership rather than licensing](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
+2. [JDK 28](https://openjdk.org/projects/jdk/28/)
+3. [Chrome and Edge are removing XSLT: what breaks and what does not](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
+4. [Codex Desktop continuously generates Crashpad pending dumps](https://github.com/openai/codex/issues/25921)
+5. [I Became a Citizen of Japan](https://www.derekwessman.com/blog-1/natural)
+6. [Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export)
+7. [Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers](https://www.artie.com/careers)
+8. [Pele – Mermaid diagrams as themeable SVG](https://pele.run/)
 
 ## TechCrunch
 
-1. [Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept](https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/)
-2. [Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)
-3. [Porsche’s electric Macan Turbo is an automotive existential crisis](https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/)
-4. [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
-5. [An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)
+1. [Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)
+2. [TikTok permanently bans ‘Musk’ documentary advertising account](https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/)
+3. [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/)
+4. [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)
+5. [Ember’s new temperature-controlled mug makes my nightly tea ritual even better](https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/)
 
 ## The Verge
 
-1. [All the news about the iPhone Duo](https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements)
-2. [Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps](https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment)
-3. [We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album](https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli)
-4. [Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars](https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash)
-5. [Why Apple is finally making its own smart home devices](https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home)
+1. [TikTok bans Musk documentary account](https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary)
+2. [Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast](https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance)
+3. [Elon Musk settles lawsuits over $1 million voter giveaway](https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway)
+4. [Meta removes language that may have allowed it to scrape news sites](https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites)
+5. [Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update](https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale)
 
 ## Ars Technica
 
-1. [OpenAI models hacked a crypto wallet and breached more websites](https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/)
-2. [“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops](https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/)
-3. [US Rep proposes bill to give video game buyers "ownership," not "a license"](https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/)
-4. [Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality](https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/)
-5. [RFK Jr. proposes FDA look the other way on unproven peptides, report says](https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/)
+1. [Science says your boss should talk less in meetings](https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/)
+2. [Why BioWare's Neverwinter Nights still has thousands of active players](https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/)
+3. [OpenAI models hacked a crypto wallet and breached more websites](https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/)
+4. [“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops](https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/)
+5. [US Rep proposes bill to give video game buyers "ownership," not "a license"](https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/)
 
 ## GitHub Blog
 
@@ -129,6 +129,7 @@
 
 ## 历史归档
 
+- [2026-10-18](reports/2026-10-18.md)
 - [2026-10-17](reports/2026-10-17.md)
 - [2026-10-16](reports/2026-10-16.md)
 - [2026-10-15](reports/2026-10-15.md)
@@ -158,7 +159,6 @@
 - [2026-09-21](reports/2026-09-21.md)
 - [2026-09-20](reports/2026-09-20.md)
 - [2026-09-19](reports/2026-09-19.md)
-- [2026-09-18](reports/2026-09-18.md)
 
 ## 快速开始
 

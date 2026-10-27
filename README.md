@@ -5,116 +5,116 @@
 ## 今日日报
 
 
-> 自动生成于 2026-10-26 11:53 (北京时间)
+> 自动生成于 2026-10-27 12:15 (北京时间)
 
 ## IT之家
 
-1. [遭网络攻击后，多家日本企业开始向用户支付补偿金](https://www.ithome.com/1/017/817.htm)
-2. [Acoustune 发布 XHS1400 耳机：发声单元与连接器为独立模块](https://www.ithome.com/1/017/816.htm)
-3. [原生桌面级应用 WPS  for Pad 正式上线小米应用商城，支持 18 Fold、平板设备下载使用](https://www.ithome.com/1/017/815.htm)
-4. [报告：微软 XBOX 高管过去六年有五年未达成绩效目标](https://www.ithome.com/1/017/813.htm)
-5. [英伟达下调 Rubin GPU 系统 HBM 与 NVLink 带宽，网络带宽提升](https://www.ithome.com/1/017/812.htm)
-6. [小鹏汽车回应车撞报废安全气囊未弹出：未达到传感器触发条件，尊重客户第三方鉴定诉求](https://www.ithome.com/1/017/811.htm)
-7. [vivo Y600 手机开启预售：搭载 10000mAh 大电池，国补到手价 1699 元起](https://www.ithome.com/1/017/810.htm)
-8. [王腾：ISHO 今日宜休，目标用 5-10 年时间成为全球领先的 AI 睡眠科技品牌](https://www.ithome.com/1/017/809.htm)
-9. [小鹏集团 Robotaxi 小鹏悠游获批 L4 级自动驾驶示范运营资质](https://www.ithome.com/1/017/808.htm)
-10. [小米汽车 App“车辆助手”第二批公测开启招募，对话交互可查询车辆状态、即时 / 定时控车等](https://www.ithome.com/1/017/807.htm)
+1. [《仙剑奇侠传四：重制》游戏官宣 12 月 5 日公布定价、发售时间等信息](https://www.ithome.com/1/018/340.htm)
+2. [知情人士：DeepSeek 大举扩充团队，梁文锋长期在北京租房](https://www.ithome.com/1/018/339.htm)
+3. [佛罗里达理工大学喜提“飞行警车”：极速 102km/h 的 eVTOL 飞行器](https://www.ithome.com/1/018/338.htm)
+4. [消息称日本经产省将发放 1000 亿日元柔性钙钛矿太阳能电池商业化补贴](https://www.ithome.com/1/018/337.htm)
+5. [微信鸿蒙版 App 获 8.0.23.16 邀测升级：公众号图标对齐其他端、新增铃声设置入口等](https://www.ithome.com/1/018/336.htm)
+6. [解决外卖进不了医院问题，顺丰速运、顺丰同城、美团共推骑手“接力送”方案](https://www.ithome.com/1/018/328.htm)
+7. [阿里巴巴起诉美国国防部取得初步胜利，法院叫停相关禁令](https://www.ithome.com/1/018/327.htm)
+8. [酷凛 FROZN A612 BLACK 风冷上市：8cm 厚单塔，280W TDP，首发价 249 元](https://www.ithome.com/1/018/326.htm)
+9. [工信部组织召开汽车产业国际合作圆桌会，12 个国家和地区代表参会](https://www.ithome.com/1/018/325.htm)
+10. [闪迪哨兵 microSD 存储卡上市：行车记录仪、安防监控双版本](https://www.ithome.com/1/018/323.htm)
 
 ## 少数派
 
-1. [派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患](https://sspai.com/post/117460)
-2. [60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro](https://sspai.com/post/114741)
-3. [在硅谷，遇见个人计算机历史](https://sspai.com/post/116128)
-4. [本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/117169)
-5. [TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验](https://sspai.com/post/116398)
-6. [破与立：设计视角下的 iPhone Duo](https://sspai.com/post/116979)
-7. [派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等](https://sspai.com/post/117104)
-8. [把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长](https://sspai.com/post/115437)
-9. [前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本](https://sspai.com/post/116923)
-10. [终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记](https://sspai.com/post/115090)
+1. [一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机](https://sspai.com/post/115855)
+2. [派早报：Apple 发布 iPad mini (A20 Pro) 等](https://sspai.com/post/117600)
+3. [派评 | 近期值得关注的 App](https://sspai.com/post/117529)
+4. [秋冬换季护肤买什么，双 11 选购推荐](https://sspai.com/post/117414)
+5. [曲高和寡、终成绝唱：傲腾 P5800X 测试报告](https://sspai.com/post/115074)
+6. [少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地](https://sspai.com/post/117180)
+7. [派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患](https://sspai.com/post/117460)
+8. [60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro](https://sspai.com/post/114741)
+9. [在硅谷，遇见个人计算机历史](https://sspai.com/post/116128)
+10. [本周看什么 | 最近值得一看的 12 部作品](https://sspai.com/post/117169)
 
 ## 爱范儿
 
-1. [早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场](https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？](https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [史上最快宾利！竟然是一辆 SUV？](https://www.ifanr.com/1685572?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [一位开发者让电视服用了 Claude，这是它系统发生的变化](https://www.ifanr.com/1685473?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [突发！iPhone Duo 支持微信平板登录，可与手机、电脑同时在线](https://www.ifanr.com/1685714?utm_source=rss&utm_medium=rss&utm_campaign=)
-6. [实测 Kimi K3.1 Pro，国模终于继续卷旗舰](https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=)
-7. [早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事](https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=)
-8. [实测 iPhone Duo 微信适配版：适配好了吗，体验怎么样？](https://www.ifanr.com/1685575?utm_source=rss&utm_medium=rss&utm_campaign=)
-9. [早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光](https://www.ifanr.com/1685530?utm_source=rss&utm_medium=rss&utm_campaign=)
-10. [OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了](https://www.ifanr.com/1685507?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [iPhone Duo 拆解：最好修的折叠 iPhone，就是别撕膜](https://www.ifanr.com/1685935?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？](https://www.ifanr.com/1686003?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营](https://www.ifanr.com/1685979?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [新 iPad mini 发布：5499 元起！应有尽有，除了高刷](https://www.ifanr.com/1685961?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [25.98 万元起，魏牌高山 8 HEV 上市，想跟燃油 MPV 们掰掰手腕](https://www.ifanr.com/1685883?utm_source=rss&utm_medium=rss&utm_campaign=)
+6. [最不「猛士」的猛士来了，X700 上市 20.98 万元起，却最适合大多数人](https://www.ifanr.com/1685866?utm_source=rss&utm_medium=rss&utm_campaign=)
+7. [地铁里的 AI 伪人广告，正在集体霸凌人类](https://www.ifanr.com/1685809?utm_source=rss&utm_medium=rss&utm_campaign=)
+8. [《影之刃零》：第一个登上世界舞台的「中国武侠游戏」](https://www.ifanr.com/1685506?utm_source=rss&utm_medium=rss&utm_campaign=)
+9. [早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场](https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=)
+10. [iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？](https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 钛媒体
 
-1. [恭喜星巴克，终于被文明了](https://www.tmtpost.com/8181684.html)
-2. [China’s Overseas Short-Drama Trade Shifts From Sets to Platforms](https://www.tmtpost.com/8181687.html)
-3. [内娱综艺，集体进入“撕吧”模式](https://www.tmtpost.com/8181635.html)
-4. [硅谷AI精英相亲局：男方交800美元，只为查验女方的“AI公司成分”](https://www.tmtpost.com/8180998.html)
-5. [字节掀桌，巨头抱团，短剧出海打响“内战”](https://www.tmtpost.com/8181419.html)
-6. [电驴，能否摸着摩托车过河？](https://www.tmtpost.com/8181414.html)
-7. [茶馆专访：被抄袭一年半以后，《莎拉的黑店》开张了](https://www.tmtpost.com/8181534.html)
-8. [国模沉寂两个月，Kimi K3.1 Pro挽尊了吗？](https://www.tmtpost.com/8181251.html)
-9. [AI的双11迷局：商家忙买单，用户只薅羊毛](https://www.tmtpost.com/8181455.html)
-10. [肖战新剧《小城良方》广告位要靠抢，长剧招商还没有死？](https://www.tmtpost.com/8181454.html)
+1. [华瓷股份三季度盈利承压：外销订单受约束，第二增长曲线尚在路上|看财报](https://www.tmtpost.com/8183215.html)
+2. [Anthropic冲刺纳斯达克：AI的造富神话，到了验收时刻](https://www.tmtpost.com/8183138.html)
+3. [微软为6万员工提供买断计划](https://www.tmtpost.com/8183150.html)
+4. [段永平的耐心，叶国富的野心](https://www.tmtpost.com/8183143.html)
+5. [囤卡三年：卡多了，债多了，钱却没了](https://www.tmtpost.com/8183156.html)
+6. [机器人集合店：有流量，钱难赚](https://www.tmtpost.com/8182455.html)
+7. [供不应求的，不只有英伟达芯片，还有安琪酵母](https://www.tmtpost.com/8183045.html)
+8. [谁在给PCB充值信仰？](https://www.tmtpost.com/8183089.html)
+9. [“行元智能”杨世琦：不做本体，押注机器人“词元” | 首发](https://www.tmtpost.com/8183026.html)
+10. [GPT-6.1 Terra发布，评论区：拉完了](https://www.tmtpost.com/8182987.html)
 
 ## 雷锋网
 
-1. [支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意](https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html)
-2. [“更懂你、会办事”，支付宝携手科大讯飞升级智能座舱服务](https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html)
-3. [行业第一！百度健康AI服务MAU超5000万，发布好医矩阵和健康相机](https://www.leiphone.com/category/industrynews/RRFr9U8GKWjNNxfH.html)
-4. [拼多多紧急捐赠1000万元 驰援西藏那曲抗震救灾](https://www.leiphone.com/category/industrynews/fSAUfIvqRcaucKO0.html)
-5. [开门红强势爆发！抖音商城双11热卖品牌榜发布](https://www.leiphone.com/category/industrynews/DsP3dhxSpXEHRNVD.html)
-6. [iRTE2026：对话 AI 如何迈向 AGI？声网CEO赵斌给出五级对话能力框架](https://www.leiphone.com/category/industrynews/nwy00TZXQdwJcSka.html)
-7. [钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会](https://www.leiphone.com/category/industrynews/sf7R7WgzGyvZwKLa.html)
-8. [宁德时代董秘被打？知情人士回应；怕担责先跑路？娃哈哈集团董事长许思敏离职；DeepSeek完成近1000亿元融资，宁德时代、腾讯参投](https://www.leiphone.com/category/zaobao/IlrVRbBiK9Klcuj1.html)
-9. [Kimi K3.1 泄露：3D 成本仅有 GPT-6 Astra 的 1/14！横扫海外视觉三巨头](https://www.leiphone.com/category/yanxishe/PZo9w14YeFSo4jmf.html)
-10. [从技术首创到规模上车，华为乾崑车载激光投影以金辑奖印证技术领先](https://www.leiphone.com/category/industrynews/nBef7qz74xPmuw5X.html)
+1. [上新风向标，抖音商城双 11 年度新品必买榜出炉](https://www.leiphone.com/category/industrynews/6GEzRzr8cZlaoWgW.html)
+2. [新华投控战略投资九识：赋能智能驾驶与物理AI，共筑智慧物流“中国路”](https://www.leiphone.com/category/industrynews/orc621EEenIn4Myu.html)
+3. [蚂蚁灵光2.0发布：从能聊会做，到记得住、盯得牢、办得了](https://www.leiphone.com/category/industrynews/IxG2F47VLIt3uTOW.html)
+4. [知名具身智能公司陷欠薪停工风波：员工称欠薪近800万元，CEO称联系不上实控人；iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题](https://www.leiphone.com/category/zaobao/owgP45BwczuhdF3j.html)
+5. [腾讯绿泡泡短剧小程序月活过亿，10月首周周活环比增长44.1%](https://www.leiphone.com/category/industrynews/c4JSGcwzPuRrggOC.html)
+6. [即梦推出 “短剧工作室”，打造更全能的 AI 内容创作平台](https://www.leiphone.com/category/industrynews/x7VWhGaTdbidkwsa.html)
+7. [DeepSeek 开源看家算子的同一周，AI 超过了它](https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html)
+8. [趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付](https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html)
+9. [支付宝AI支付发起年度黑客松大赛，邀开发者把AI创意变成生意](https://www.leiphone.com/category/industrynews/ykWM8XAjpHi0biY1.html)
+10. [“更懂你、会办事”，支付宝携手科大讯飞升级智能座舱服务](https://www.leiphone.com/category/industrynews/WOl6u17gkYoV3PVr.html)
 
 ## V2EX 热议
 
-1. [偶然和一个在药店工作的女生聊了聊，震惊于药店的黑心，写了个总结，和大家分享一下](https://www.v2ex.com/t/1251749) 「健康」 — 💬 78
-2. [创业一年了，还活着](https://www.v2ex.com/t/1251768) 「职场话题」 — 💬 65
-3. [有件事我搞不明白， V 站为何不升级一下交互和 UI？然后出一个官方的 APP？](https://www.v2ex.com/t/1251696) 「V2EX」 — 💬 61
-4. [股灾来了就开个银河买纳指或者红利低波 ETF 吧，“万 1 免 5”股票基金免 5 大笑脸开户](https://www.v2ex.com/t/1251738) 「推广」 — 💬 55
-5. [国产《长虹》安卓电视机 不支持开通 ADB](https://www.v2ex.com/t/1251745) 「Android」 — 💬 52
-6. [有没有感觉 Codex 越来越比不上 Claude 了](https://www.v2ex.com/t/1251671) 「问与答」 — 💬 48
+1. [深夜求助，物业只提前 1 小时通知停电，导致我家里电脑坏了](https://www.v2ex.com/t/1252074) 「生活」 — 💬 103
+2. [媳妇上个月辞职出来创业了](https://www.v2ex.com/t/1251868) 「职场话题」 — 💬 100
+3. [你们是如何和岳父岳母相处的](https://www.v2ex.com/t/1251970) 「生活」 — 💬 90
+4. [坠机日，大妈和瓦工 3 台机器都阵亡了](https://www.v2ex.com/t/1251991) 「Claude」 — 💬 86
+5. [iPhone Duo 有感](https://www.v2ex.com/t/1252088) 「iPhone」 — 💬 81
+6. [请问一下 v 友们平常都是喝什么水的？](https://www.v2ex.com/t/1252085) 「生活」 — 💬 79
 
 ## Hacker News
 
-1. [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
-2. [Brazil elections: Lula secures fourth term after dramatic comeback](https://www.bbc.com/news/articles/cmvg7p001qj9o)
-3. [If AI displaces human workers, they will lose more than just pay](https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay)
-4. [IBM CEO says open weight models are now irresistibly good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640)
-5. [iPhone Duo Teardown](https://www.ifixit.com/News/119895/iphone-duo-teardown)
-6. [Removing Next.js Got My Blog to 100 on Every Lighthouse Category](https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category)
-7. [Steal My Bitcoin CTF PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC)
-8. [Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428)
+1. [Incremental rust builds up to 92x faster than cargo/rustc](https://github.com/indexable-inc/blaze)
+2. [I still teach OpenGL ES 3.0](https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html)
+3. [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
+4. [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+5. [Is PHP Running on Your ColdFusion Server? How to Check, and Remove It](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
+6. [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
+7. [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
+8. [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
 
 ## TechCrunch
 
-1. [The best apps for tracking your reading and discovering new books](https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/)
-2. [Grok releases the first seven minutes of its AI-generated ‘Odyssey’](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/)
-3. [‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead](https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/)
-4. [AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
-5. [TechCrunch Mobility: Blue-green is the color of autonomy](https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/)
+1. [How OpenAI turned its coding tools into dots, an always-on personal assistant](https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/)
+2. [Cohere says Alibaba’s Qwen model tried to send a file to Beijing](https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/)
+3. [Databricks co-founder shares his secrets for winning big enterprise customers](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/)
+4. [Watch out, YouTube — Instagram goes from short-form to 90-minute videos](https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/)
+5. [Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/)
 
 ## The Verge
 
-1. [Now you can watch Instagram Reels on your Apple TV](https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv)
-2. [r/opensource just banned AI, non-English speakers, and more](https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban)
-3. [Google’s AI search changes upended online publishing](https://www.theverge.com/column/1017983/google-ai-search-online-publishing)
-4. [Blue Planet III is keeping the rough edges in the age of AI](https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai)
-5. [Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)
+1. [OpenAI announces three big science discoveries and a new way to work with academics](https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics)
+2. [Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50](https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale)
+3. [Anthropic is burning gas to feed the AI boom](https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk)
+4. [iPhone Duo now supports Apple Pencil with iOS 27.2](https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil)
+5. [The NBA’s response to gambling scandals is to add more gambling partnerships](https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket)
 
 ## Ars Technica
 
-1. [A 1,000-mile cloud on Mars may reveal physics never seen in nature](https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/)
-2. [Ice sheet expansion may have started 2,000 years ago, but we canceled that](https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/)
-3. [NASA updates lander plans for Moon landings, finally solves long-festering Orion issue](https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/)
-4. [Hegseth warns prediction market bets warp military judgment, endanger troops](https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/)
-5. [Updated Google privacy policy says your Gmail might be used for advertising](https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/)
+1. [Microsoft offers to buy out a quarter of its workforce](https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/)
+2. [Worms mate in man's eyes, get plucked out right before larvae burst out](https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/)
+3. [Meet the real-life Scottish surgeon who inspired Sherlock Holmes](https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/)
+4. [Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo](https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/)
+5. [Apple reveals updated iPad mini with a bigger OLED screen for $700](https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/)
 
 ## GitHub Blog
 
@@ -129,6 +129,7 @@
 
 ## 历史归档
 
+- [2026-10-27](reports/2026-10-27.md)
 - [2026-10-26](reports/2026-10-26.md)
 - [2026-10-25](reports/2026-10-25.md)
 - [2026-10-24](reports/2026-10-24.md)
@@ -158,7 +159,6 @@
 - [2026-09-30](reports/2026-09-30.md)
 - [2026-09-29](reports/2026-09-29.md)
 - [2026-09-28](reports/2026-09-28.md)
-- [2026-09-27](reports/2026-09-27.md)
 
 ## 快速开始
 

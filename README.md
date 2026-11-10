@@ -5,116 +5,116 @@
 ## 今日日报
 
 
-> 自动生成于 2026-11-09 10:37 (北京时间)
+> 自动生成于 2026-11-10 12:36 (北京时间)
 
 ## IT之家
 
-1. [比亚迪 C12 DUO 首秀 2026 欧洲客车展，英国市场迎来第 3000 台电动大巴里程碑](https://www.ithome.com/1/024/068.htm)
-2. [上汽奥迪 AUDI DAY 2026 定档 11 月 13 日，E7X/E5 Sportback 特别版车型登场](https://www.ithome.com/1/024/067.htm)
-3. [12+256G 版 3999 → 2530 元：小米 REDMI K100 Pro 官方 11.11 直降](https://www.ithome.com/1/024/066.htm)
-4. [何刚解释华为睿影 XMAGE 命名：三次升级始终保留了字母“X”，代表着未知](https://www.ithome.com/1/024/064.htm)
-5. [Akko 空影 TAN8 鼠标新增 Master N2 版：升级 nRF54LM20 主控，329 元](https://www.ithome.com/1/024/063.htm)
-6. [荣耀 700 系列手机新技术 11 月 13 日亮相，预约已开启](https://www.ithome.com/1/024/062.htm)
-7. [宝马新世代 BMW iX3/ i3 即将开启大订，将于 11 月 25 日 / 27 日上市](https://www.ithome.com/1/024/061.htm)
-8. [OPPO Watch 5 智能手表外观公布：主打轻薄方表形态，11 月 16 日发布](https://www.ithome.com/1/024/060.htm)
-9. [2027 款岚图知音汽车 11 月 13 日上市，896 线双光路激光雷达 + 81 度电池](https://www.ithome.com/1/024/059.htm)
-10. [东风日产 NX7 全球首秀定档 11 月 13 日，即将开启预售](https://www.ithome.com/1/024/058.htm)
+1. [陈建斌谈 AI 替代：不好的演员在任何时代都会失业，好演员永远不会失业](https://www.ithome.com/1/024/750.htm)
+2. [原今日头条 CEO 陈林首次公开承认离职，筹备 AI 教育创业](https://www.ithome.com/1/024/748.htm)
+3. [龙芯中科胡伟武：通用 CPU 3B6600、7A3000 即将回片](https://www.ithome.com/1/024/746.htm)
+4. [消息称七彩虹主板双 11 后线上型号全面涨价，微星显卡代理商价格最高涨 8000 元](https://www.ithome.com/1/024/745.htm)
+5. [全新深蓝 G318 四驱畅行乾崑版 11 月 11 日上市，搭载华为乾崑技术与鸿蒙座舱](https://www.ithome.com/1/024/744.htm)
+6. [小鹏汇天 CEO 赵德力：未来十年全球将迎来飞行汽车高速发展时期](https://www.ithome.com/1/024/743.htm)
+7. [华为 MateBook Fold S 鸿蒙小折叠电脑三色外观公布：搭载 Live 小方屏，11 月 14 日预订](https://www.ithome.com/1/024/742.htm)
+8. [消息称 Pro 和 Ultra 版占据三星 Galaxy S27 系列智能手机七成规划出货量](https://www.ithome.com/1/024/741.htm)
+9. [欲摘通用量子计算下一个“皇冠”：正元量子完成天使轮融资](https://www.ithome.com/1/024/740.htm)
+10. [华境 S 大六座 SUV 累计交付突破 4 万台，标配华为乾崑智驾 ADS 5 Pro](https://www.ithome.com/1/024/739.htm)
 
 ## 少数派
 
-1. [派早报：特斯拉将停产 Cybertruck](https://sspai.com/post/118805)
-2. [苹果产品那些不够颠覆，却值得被学习的细节](https://sspai.com/post/118114)
-3. [一个 05 后的个人数码编年史](https://sspai.com/post/116750)
-4. [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/118623)
-5. [iPhone 变强了，但我没有](https://sspai.com/post/118250)
-6. [更高能效比，带来新惊喜：M6 款 MacBook Pro 初探](https://sspai.com/post/118570)
-7. [派早报：国务院办公厅发布 2027 年部分节假日放假安排等](https://sspai.com/post/118587)
-8. [开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验](https://sspai.com/post/118546)
-9. [新玩意 255｜少数派的编辑们最近买了啥？](https://sspai.com/post/118541)
-10. [不用困在厨房也能做出好饭：三十道省事家常蒸菜](https://sspai.com/prime/story/30-easy-steamed-dishes)
+1. [今年双十一，这些鼠标值得一看](https://sspai.com/post/111065)
+2. [派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等](https://sspai.com/post/118854)
+3. [派评 | 近期值得关注的 App](https://sspai.com/post/118833)
+4. [双十一 | 少数派会员、正版软件、付费栏目限时优惠](https://sspai.com/post/118799)
+5. [一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验](https://sspai.com/post/118227)
+6. [天花板上的白色盒子，是怎样保护我们的安全的？](https://sspai.com/post/118029)
+7. [双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖](https://sspai.com/post/118612)
+8. [派早报：特斯拉将停产 Cybertruck](https://sspai.com/post/118805)
+9. [苹果产品那些不够颠覆，却值得被学习的细节](https://sspai.com/post/118114)
+10. [一个 05 后的个人数码编年史](https://sspai.com/post/116750)
 
 ## 爱范儿
 
-1. [M6 MacBook Pro 体验：38 块的灵魂，一万五的身体](https://www.ifanr.com/1688127?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元](https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [别再拿《影之刃零》对比《黑神话》了](https://www.ifanr.com/1688282?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原](https://www.ifanr.com/1688364?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元](https://www.ifanr.com/1688312?utm_source=rss&utm_medium=rss&utm_campaign=)
-6. [早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票](https://www.ifanr.com/1688251?utm_source=rss&utm_medium=rss&utm_campaign=)
-7. [503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头](https://www.ifanr.com/1688195?utm_source=rss&utm_medium=rss&utm_campaign=)
-8. [10 月最值得关注的 17 个产品｜明日产品 WATCHLIST](https://www.ifanr.com/1688060?utm_source=rss&utm_medium=rss&utm_campaign=)
-9. [早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞](https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=)
-10. [13 万买 5 米大轿车！比亚迪海豹 07 上市，首搭云辇-M 磁流变悬架](https://www.ifanr.com/1688332?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2](https://www.ifanr.com/1688678?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产](https://www.ifanr.com/1688654?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [曾号称订单超百万，累计仅卖 6.3 万辆，量产不到四年的特斯拉 Cybertruck 官宣停产](https://www.ifanr.com/1688639?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5](https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [玛莎拉蒂将与尊界联合造车，首发车型或为双门 GT，明年正式量产](https://www.ifanr.com/1688586?utm_source=rss&utm_medium=rss&utm_campaign=)
+6. [实测 Seedream5.5，豆包想把 AI 作图接进整条工作流](https://www.ifanr.com/1688447?utm_source=rss&utm_medium=rss&utm_campaign=)
+7. [谁家 AI 这么听劝？Seedream 5.5 爆改 iPhone Duo 界面，精准到像素级](https://www.ifanr.com/1688514?utm_source=rss&utm_medium=rss&utm_campaign=)
+8. [苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini](https://www.ifanr.com/1688485?utm_source=rss&utm_medium=rss&utm_campaign=)
+9. [微信 AI 录音笔体验：手机都能装的办公神器，免费！](https://www.ifanr.com/1688410?utm_source=rss&utm_medium=rss&utm_campaign=)
+10. [刚刚，马斯克评价黄仁勋出轨事件](https://www.ifanr.com/1688626?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 钛媒体
 
-1. [天上已有上万颗卫星，谁来阻止它们相撞？](https://www.tmtpost.com/8197840.html)
-2. [旁观者张朝阳](https://www.tmtpost.com/8197836.html)
-3. [涌入半导体的年轻人：两年红利，抵别人一辈子](https://www.tmtpost.com/8197758.html)
-4. [Edge AI Daily 早报（11月9日）](https://www.tmtpost.com/8197806.html)
-5. [AI会撞上的下一堵墙可能是水](https://www.tmtpost.com/8197774.html)
-6. [单项致胜：五星股票型基金产品深度参考（2026年三季度）](https://www.tmtpost.com/8197876.html)
-7. [卡莱斯基理论解码：2027 全球经济与资产配置](https://www.tmtpost.com/8197869.html)
-8. [价值判断：跌停板的投资机会和风险提示（11月6日）｜上市公司观察](https://www.tmtpost.com/8197864.html)
-9. [价值判断：涨停板的投资机会和风险提示（11月6日）｜上市公司观察](https://www.tmtpost.com/8197859.html)
-10. [美债问题的制度根源：为什么央行兜底不能替代财政改革？](https://www.tmtpost.com/8197851.html)
+1. [今年双 11，一批新品牌从小需求做到了天猫TOP10](https://www.tmtpost.com/8199214.html)
+2. [Chen Tianqiao Moves From Discoverative Ambition to Verifiable Systems](https://www.tmtpost.com/8199556.html)
+3. [又一个双抗预期大爆发](https://www.tmtpost.com/8199299.html)
+4. [从一家深圳小厂逆袭成移动充电巨头，倍思能否跳出3C配件圈内卷？](https://www.tmtpost.com/8199460.html)
+5. [瑞士清洁科技企业Climada研发气候风险分析SaaS软件，量化自然灾害经济损失](https://www.tmtpost.com/8199316.html)
+6. [美股AI巨震，如何把握港A的AI产业链分化机遇？](https://www.tmtpost.com/8198218.html)
+7. [Anthropic IPO倒计时：最早11月16日上市](https://www.tmtpost.com/8199231.html)
+8. [厉娜能翻红，绝味鸭脖却翻不了身？](https://www.tmtpost.com/8199219.html)
+9. [瑞士医疗科技企业Biped Robotics研发智能导航肩带，辅助视障人士独立出行](https://www.tmtpost.com/8199232.html)
+10. [被吐槽“滤镜碎尽”的深坑酒店，背后有本难算的账？](https://www.tmtpost.com/8199209.html)
 
 ## 雷锋网
 
-1. [腾讯的 Agent 布局，不止 WorkBuddy](https://www.leiphone.com/category/industrynews/oxR5pn9S7tI1IfF5.html)
-2. [终端侧AI：从单点应用走向智能体体验](https://www.leiphone.com/category/chips/aOKsujJpdDvRKj5S.html)
-3. [冲刺狂欢日！抖音商城双11高光品牌有哪些？](https://www.leiphone.com/category/industrynews/Fk2MojO1XgLVidbM.html)
-4. [百图生科与11家伙伴战略合作，AI生物计算覆盖医药研发及农业育种](https://www.leiphone.com/category/industrynews/X7HwwQTEXJhiVVzK.html)
-5. [创始人操纵股价罚没4047万，倍轻松再难「轻松」](https://www.leiphone.com/category/weiwu/dpUYWHZif8UtQpLA.html)
-6. [OpenAI 「重置大神」换人了？Tibo 去救火，Andrew 上位](https://www.leiphone.com/category/yanxishe/u5N6lCUT0bEfanp1.html)
-7. [豆包工作个人版取消5小时额度限制](https://www.leiphone.com/category/industrynews/Ii6W43GghzJA7V1u.html)
-8. [李佳琦卖出万份Token，天猫的AI生意才刚开场](https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html)
-9. [办了33年的ACM MM，重新划定研究范围](https://www.leiphone.com/category/academic/XWkCJB9bbcRr9Ioe.html)
-10. [上交大张伟楠教授：AI如何走出屏幕，真正改变物理世界？ | CNCC 2026](https://www.leiphone.com/category/academic/TRS6Uqs5TY2MaUU4.html)
+1. [41年爱妻人设崩塌！黄仁勋一夜损失3万亿，或被英伟达免职；曝一汽大众取消两年「年终奖」，有人称合计约20万；豆包新图像模型价格下降](https://www.leiphone.com/category/zaobao/zcxkdPkvpprE36Zv.html)
+2. [云深处发布全新四足机器人  实现50Kg大负载、复杂地形作业](https://www.leiphone.com/category/industrynews/EihvEi3hKb9icG62.html)
+3. [百度搭子连中三元：中信建投、国家电投数科、通用数科](https://www.leiphone.com/category/industrynews/tm7T5JBmm4u6YUQi.html)
+4. [千问办公2.0，补上了办公Agent最关键的「短板」](https://www.leiphone.com/category/industrynews/ljjfjnedPmwgYh6Q.html)
+5. [乘联会：10月增程市场逆势环比大涨31.3%，小米澎程成为最强推动力](https://www.leiphone.com/category/industrynews/n8tGHmir0aXabfKi.html)
+6. [无预警！ChatGPT突然大规模封号，包括付费用户；圆通总裁心疼儿子Tim：他比大多数人想象的辛苦；英伟达遭大劫案，价值超7千万元货物失踪](https://www.leiphone.com/category/zaobao/Z2uc8AJRp0PQO7Kb.html)
+7. [阿里云获中国专利金奖：破解AI时代的超大规模智能算力调度难题](https://www.leiphone.com/category/industrynews/ljc6ifIFxCUD6DYG.html)
+8. [字节跳动发布Seedream 5.5，上线豆包、豆包工作、即梦](https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html)
+9. [百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布](https://www.leiphone.com/category/industrynews/FO9Dx6HKj5Bvno5y.html)
+10. [行业最大规模具身模型挑战赛迎来决赛：15支战队将展开48小时真机角逐](https://www.leiphone.com/category/industrynews/5ejIhKWAtmfZvdqx.html)
 
 ## V2EX 热议
 
-1. [各位还记得自己第一台手机什么品牌型号吗](https://www.v2ex.com/t/1255417) 「问与答」 — 💬 81
-2. [现在还有必要花大量时间学习编程吗？](https://www.v2ex.com/t/1255305) 「职场话题」 — 💬 80
-3. [卖软件这个事情在未来可能是伪命题了](https://www.v2ex.com/t/1255327) 「程序员」 — 💬 74
-4. [希望 BLG 抗韩成功](https://www.v2ex.com/t/1255430) 「生活」 — 💬 72
-5. [写了个开源工具：手机照片视频无损搬到电脑，局域网直传， PC 不装任何客户端](https://www.v2ex.com/t/1255317) 「Android」 — 💬 46
-6. [哪位大神的 claude 没有被封过，分享下方法哇，拜托，人麻了](https://www.v2ex.com/t/1255324) 「Claude」 — 💬 45
+1. [七年级期中考试分数如下，哎，认命了](https://www.v2ex.com/t/1255591) 「教育」 — 💬 148
+2. [突然想到个一直没有想的事情，各位一般多久剪一次头发](https://www.v2ex.com/t/1255744) 「生活」 — 💬 109
+3. [[送会员] 为了学好 英语 和 日语，我做了这个...](https://www.v2ex.com/t/1255556) 「分享创造」 — 💬 104
+4. [初级古法前端说：前端比后端难多了。我这个后端老登沉默了](https://www.v2ex.com/t/1255534) 「职场话题」 — 💬 93
+5. [我做的收费 SSH 客户端 Termark，被人 1:1 复刻并开源了](https://www.v2ex.com/t/1255590) 「程序员」 — 💬 72
+6. [说说最近在折腾 Claude 上继续浪费的钱吧](https://www.v2ex.com/t/1255567) 「Claude」 — 💬 67
 
 ## Hacker News
 
-1. [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
-2. [I'm Not Convinced the AI Bubble Exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)
-3. [Herb Sutter: When a language's creator and its owners strongly disagree [pdf]](https://isocpp.org/files/papers/P4454R0.pdf)
-4. [Chimera Vocal Synth](https://chimera-vocal-synth.vercel.app/)
-5. [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
-6. [Nvidia CEO Jensen Huang's letter to staff about affair](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company)
-7. [Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)
-8. [Nvidia Board of Directors Is Investigating Jensen Huang](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
+1. [CoreWeave bond yield tops 16% as AI credit stress rises](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html)
+2. [Locating the source of a mysterious beep](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
+3. [Horible public key tricks](https://maurycyz.com/projects/badcert/)
+4. [Fable 5.2 one-shotted my nephew's dream game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
+5. [Exact – a new cross platform UI framework](https://github.com/expo/exact)
+6. [TPU 8tx and TPU 8i Max](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)
+7. [Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far](https://artificialanalysis.ai/models/claude-fable-5-2)
+8. [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
 
 ## TechCrunch
 
-1. [Apps to distract you from the endless cycle of doomscrolling](https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/)
-2. [Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/)
-3. [If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be](https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/)
-4. [Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.](https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/)
-5. [Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board](https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/)
+1. [Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes](https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/)
+2. [Anthropic reportedly plans to move forward with IPO plans](https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/)
+3. [Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago](https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/)
+4. [Hotel giant Wyndham exposed customer data after app security lapse](https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/)
+5. [A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal](https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/)
 
 ## The Verge
 
-1. [Here’s the full text of Jensen Huang’s memo to Nvidia](https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia)
-2. [Soul Glo’s Diaspora Problems is a hardcore record like no other](https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review)
-3. [Epic Games Launcher is coming to SteamOS](https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos)
-4. [Nvidia is investigating Jensen Huang’s relationship with a Chinese spy](https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy)
-5. [Apple is racing to make Siri more agentic](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic)
+1. [David Ellison says AI could be the ‘biggest creative unlock in modern history’](https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai)
+2. [What could China get from Jensen Huang?](https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang)
+3. [Here’s what Trump said he knew about Jensen Huang](https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference)
+4. [Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang)
+5. [MSI’s refurbished QD-OLED gaming monitor is on sale for under $300](https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale)
 
 ## Ars Technica
 
-1. [Physicists listened to electrical noise to crack a superconductor mystery](https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/)
-2. [The Bantu expansion changed Africa. Scientists are still tracing how.](https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/)
-3. [British soldier ignored order to pull his SIM card, then got blackmailed](https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/)
-4. [Doctors pull knife from man's eye that went through his brain—and he's fine now](https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/)
-5. [Ships loiter near subsea cables amid Iran's warnings to Trump](https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/)
+1. [DCU shake-up: James Gunn and Peter Safran out post-merger](https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/)
+2. [Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling](https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/)
+3. [A Sam Altman parody offers an amusing lesson in memory management](https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/)
+4. [Vulnerability that lets hackers SSH into Linux devices is under active exploitation](https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/)
+5. [Pentagon mulls placing fleet of military satellites around the Moon](https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/)
 
 ## GitHub Blog
 
@@ -129,6 +129,7 @@
 
 ## 历史归档
 
+- [2026-11-10](reports/2026-11-10.md)
 - [2026-11-09](reports/2026-11-09.md)
 - [2026-11-08](reports/2026-11-08.md)
 - [2026-11-07](reports/2026-11-07.md)
@@ -158,7 +159,6 @@
 - [2026-10-14](reports/2026-10-14.md)
 - [2026-10-13](reports/2026-10-13.md)
 - [2026-10-12](reports/2026-10-12.md)
-- [2026-10-11](reports/2026-10-11.md)
 
 ## 快速开始
 

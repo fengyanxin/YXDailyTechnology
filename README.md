@@ -5,123 +5,123 @@
 ## 今日日报
 
 
-> 自动生成于 2026-11-17 13:03 (北京时间)
+> 自动生成于 2026-11-18 12:14 (北京时间)
 
 ## IT之家
 
-1. [消息称阿里调整员工回流政策，知情人士否认“史上最严”说法](https://www.ithome.com/1/028/217.htm)
-2. [摩托罗拉预告新机：预计为 Edge 70 Neo，搭载高通骁龙 7s Gen 3 芯片](https://www.ithome.com/1/028/215.htm)
-3. [比亚迪李柯：未来就是新能源，多国政商界人士点名参观比亚迪](https://www.ithome.com/1/028/214.htm)
-4. [微软高管自嘲：Win11 仍藏着 Win95 时代的“电话拨号器”](https://www.ithome.com/1/028/213.htm)
-5. [360 回应副总裁卜思南被带走调查传闻：内审发现其涉嫌经济问题，已报案](https://www.ithome.com/1/028/212.htm)
-6. [51.99 万元：东风猛士 M817 Ultimate 智能越野大师上市，马力超千匹](https://www.ithome.com/1/028/211.htm)
-7. [两部门要求提升老年人广电收视体验：加快普及一个遥控器“一键看电视”，坚决整治违规医药广告播出](https://www.ithome.com/1/028/210.htm)
-8. [【IT之家开箱】华为全新子品牌星芒 OSTA O1 Pro 手机实拍：渐变星芒紫，阔直板设计别具一格](https://www.ithome.com/1/028/209.htm)
-9. [部分微软经典版 Outlook 用户反馈共享邮箱几秒后“凭空消失”](https://www.ithome.com/1/028/207.htm)
-10. [《英雄联盟》CFO 全员离队，Doggo 因感情风波向前队友 Junjia 致歉](https://www.ithome.com/1/028/198.htm)
+1. [《古墓丽影》开发商晶体动力再度裁员 8 人](https://www.ithome.com/1/028/694.htm)
+2. [Radxa 分享瑞芯微文档：RK3668 通用处理器预计 2027Q1 提供工程样品](https://www.ithome.com/1/028/693.htm)
+3. [苹果首款折叠 iPhone Duo 铰链风波升级，韩媒称供应商受压撤回声明](https://www.ithome.com/1/028/692.htm)
+4. [分形工艺预热神秘新品，传闻为 Torrent 2 机箱](https://www.ithome.com/1/028/691.htm)
+5. [99 元起，九州风神 FT12 V2 SE 钢铁之“芯”机箱风扇开售](https://www.ithome.com/1/028/690.htm)
+6. [“童话大王”郑渊洁停更 2 年后发声：用 AI 手搓动画短片开放免费观看，祝贺 00 后赶上知识平权好时代](https://www.ithome.com/1/028/689.htm)
+7. [如何在苹果 macOS 27.3 Beta 2 关闭菜单栏“蓝色药丸”提示](https://www.ithome.com/1/028/687.htm)
+8. [Grado 推出开放式头戴耳机 GW200，支持 aptX Lossless](https://www.ithome.com/1/028/686.htm)
+9. [潜伏 11 年的 Linux 内核漏洞 NoisyTCP 曝光，发送特制 TCP 数据包可致服务器崩溃](https://www.ithome.com/1/028/685.htm)
+10. [换电脑不用重来：腾讯 WorkBuddy 现已支持跨设备数据迁移](https://www.ithome.com/1/028/684.htm)
 
 ## 少数派
 
-1. [为了另一种可能性：在国内折腾 Linux 打游戏的二三事](https://sspai.com/post/118442)
-2. [派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等](https://sspai.com/post/119160)
-3. [派评 | 近期值得关注的 App](https://sspai.com/post/119148)
-4. [Rosetta 2 即将退役，Mac 老应用何去何从？](https://sspai.com/post/118100)
-5. [App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味](https://sspai.com/post/119012)
-6. [派早报：逾十万人次联署要求黄仁勋复职](https://sspai.com/post/119119)
-7. [Aerial Switcher：给 Mac 的航拍壁纸排个时间表](https://sspai.com/post/118392)
-8. [怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA](https://sspai.com/post/118276)
-9. [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/118999)
-10. [研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验](https://sspai.com/post/118153)
+1. [跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾](https://sspai.com/post/119193)
+2. [兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派](https://sspai.com/post/118975)
+3. [派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等](https://sspai.com/post/119210)
+4. [社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏](https://sspai.com/post/119184)
+5. [TDS REVIEW｜Bose 有线消噪耳塞体验](https://sspai.com/post/118976)
+6. [为了另一种可能性：在国内折腾 Linux 打游戏的二三事](https://sspai.com/post/118442)
+7. [派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等](https://sspai.com/post/119160)
+8. [派评 | 近期值得关注的 App](https://sspai.com/post/119148)
+9. [Rosetta 2 即将退役，Mac 老应用何去何从？](https://sspai.com/post/118100)
+10. [App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味](https://sspai.com/post/119012)
 
 ## 爱范儿
 
-1. [12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」](https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [微软全球大宕机，AI 怎么又成了背锅侠](https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日](https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [影石这张「魔法相纸」，怎么治好了我的相册吃灰症？](https://www.ifanr.com/1689594?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [苹果眼镜明年见：没有屏幕，全靠 Siri 撑场面？](https://www.ifanr.com/1689712?utm_source=rss&utm_medium=rss&utm_campaign=)
-6. [几乎每家国产新能源都在营销的「6 人 12 箱」，原来根本就是违法的！](https://www.ifanr.com/1689701?utm_source=rss&utm_medium=rss&utm_campaign=)
-7. [实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页](https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=)
-8. [制糖工厂推出 EdgeTie 边边线，以转角贴边设计改善车内充电体验](https://www.ifanr.com/1689628?utm_source=rss&utm_medium=rss&utm_campaign=)
-9. [苹果智能眼镜细节曝光，居然是戴在脸上的 AirPods](https://www.ifanr.com/1689616?utm_source=rss&utm_medium=rss&utm_campaign=)
-10. [超 16 万人请愿，黄仁勋准备「回宫」](https://www.ifanr.com/1689559?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线](https://www.ifanr.com/1690033?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [曾经的纯电超跑之王 Rimac Nevera 宣布停产，CEO 转头造出了 16 缸的布加迪新旗舰](https://www.ifanr.com/1690064?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [黄仁勋官宣愿意回归，英伟达董事会：不考虑！](https://www.ifanr.com/1689994?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权](https://www.ifanr.com/1689915?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [Mac 收紧权限，苹果开始防着 AI 了](https://www.ifanr.com/1689832?utm_source=rss&utm_medium=rss&utm_campaign=)
+6. [DeepSeek 不限额的用法，都在这里了 |  附指南](https://www.ifanr.com/1689869?utm_source=rss&utm_medium=rss&utm_campaign=)
+7. [除了人脸解锁，iPhone Duo 2 还值得哪些升级？](https://www.ifanr.com/1690009?utm_source=rss&utm_medium=rss&utm_campaign=)
+8. [12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」](https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=)
+9. [微软全球大宕机，AI 怎么又成了背锅侠](https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign=)
+10. [早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日](https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 钛媒体
 
-1. [“学霸”自首AI作弊，韩国高考紧急布防](https://www.tmtpost.com/8208106.html)
-2. [下跌周期中的MinMax：早期投资者和闫俊杰的AI畅谈](https://www.tmtpost.com/8207380.html)
-3. [美国纳管AI算力远程获取，海外数据中心出租算力将须许可](https://www.tmtpost.com/8207829.html)
-4. [SuperLink2026开启创投行业超级链接时刻，12月北京见](https://www.tmtpost.com/8206989.html)
-5. [2026中国整合肿瘤学大会在长沙开幕](https://www.tmtpost.com/8207947.html)
-6. [Seedance 正杀死爱奇艺们](https://www.tmtpost.com/8207907.html)
-7. [小米首次开放电池产线，背后藏着一场供应链博弈](https://www.tmtpost.com/8207866.html)
-8. [Huang Leaves Nvidia. Chinese AI Buyers and Suppliers Feel It Next](https://www.tmtpost.com/8207932.html)
-9. [硅谷大佬出手！黄仁勋的班，女CEO接不了](https://www.tmtpost.com/8207215.html)
-10. [梁文锋越过聊天框](https://www.tmtpost.com/8207308.html)
+1. [Gartner 2027十大技术趋势：十项里四项与AI治理有关，窗口期只有1到6年](https://www.tmtpost.com/8209258.html)
+2. [国产户外品牌，吃到凯乐石让出的平价生态了吗？](https://www.tmtpost.com/8208700.html)
+3. [大洋彼岸的数据中心成了洪水猛兽](https://www.tmtpost.com/8208735.html)
+4. [顺为资本押注的天才，被告到英国司法机构](https://www.tmtpost.com/8208723.html)
+5. [GPT-6.2 Astra终于上线，从PPT做到发动机](https://www.tmtpost.com/8209040.html)
+6. [芯片供不应求，台积电却开始给客户“验资”？](https://www.tmtpost.com/8208977.html)
+7. [英伟达，段永平的投资压力测试](https://www.tmtpost.com/8208863.html)
+8. [爱奇艺，再不努力就退了](https://www.tmtpost.com/8208727.html)
+9. [蚂蚁灵波，又放大招了](https://www.tmtpost.com/8208722.html)
+10. [理想出海的右舵首战：为什么先派出MEGA？](https://www.tmtpost.com/8208799.html)
 
 ## 雷锋网
 
-1. [网传360集团副总裁涉贪腐问题被带走调查；英伟达董事会：没考虑让黄仁勋复任CEO；知名手游宣布明年3月停止运营，曾月流水破10亿](https://www.leiphone.com/category/zaobao/ksECYyYOXDL6IQ2q.html)
-2. [26.99万元起，腾势N8正式上市：首搭易三方Evo，纯电续航1003公里](https://www.leiphone.com/category/transportation/9YeGaaNjyBi0zkQ4.html)
-3. [平均年龄25岁，00后小伙带队拿下首届蚂蚁灵波具身大模型挑战赛最高分](https://www.leiphone.com/category/industrynews/LTOeijdeWR08fZGP.html)
-4. [当充电像加油一样快，租车自驾的边界被拓宽](https://www.leiphone.com/category/industrynews/kfphRdgYwSdN13Nv.html)
-5. [黄仁勋被曝考虑重返英伟达担任CEO！其硅谷盟友正施压董事会；女子因拒绝给HR带咖啡被取消面试，BOSS直聘回应；李牧青出任AI公司联席CEO](https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html)
-6. [启境GT7 Ultra舒享版纯电/增程正式上新！首付6.66万起，拿下L3级架构猎装](https://www.leiphone.com/category/industrynews/OCFaX1WjrKRkcFm5.html)
-7. [豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景](https://www.leiphone.com/category/industrynews/hnSL5YwUtQjerTRK.html)
-8. [智算接棒：物理AI的下一个风口，在于计算基础设施](https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html)
-9. [HCI 先驱 de Souza：当 AI 替我们阅读，谁来为知识负责？| ACM MM 2026](https://www.leiphone.com/category/private/j1CWHNsD9eBM7Wwc.html)
-10. [李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？](https://www.leiphone.com/category/ai/zV4No5T5XDHJcupr.html)
+1. [可灵AI发布Kling Image 4.0：原生8K超高清、组图直出，刷新专业图像生成新高度](https://www.leiphone.com/category/industrynews/XmEGfhNbrGY3WfbT.html)
+2. [黄仁勋打破沉默：为美国人身份自豪，愿意重返英伟达担任CEO；阿里调整员工回流政策：离职两次不得回流原集团；红果被曝筹备电视端独立APP](https://www.leiphone.com/category/zaobao/OlqabqceGorcm242.html)
+3. [消费级具身，打破「次元壁」](https://www.leiphone.com/category/industrynews/zEonnVT8L3iVNJkY.html)
+4. [阿里云连续六年香港IaaS第一，企业客户AI渗透率达95%](https://www.leiphone.com/category/industrynews/qyieFYqM3EQhE1Hu.html)
+5. [“BAT 做 Personal Agent，我没那么乐观”](https://www.leiphone.com/category/CorporateServices/7flnC8myrlPgPbPs.html)
+6. [智源悟界·PhysCapBench：首个跨领域的世界模型“物理数据量尺”](https://www.leiphone.com/category/aijuejinzhi/KPwGklj93OeTbkrg.html)
+7. [独家丨腾讯优图实验室研究总监孙星离职](https://www.leiphone.com/category/CorporateServices/ndF7IsEHBffZkbzy.html)
+8. [谁来帮助企业走向「智能组织」？](https://www.leiphone.com/category/CorporateServices/Hsnbxo0xUgb2FWkB.html)
+9. [闲鱼亮相联合国气候变化大会：AI加速闲置流转，低碳融入日常](https://www.leiphone.com/category/industrynews/fZwDw188Li4SuyQM.html)
+10. [网传360集团副总裁涉贪腐问题被带走调查；英伟达董事会：没考虑让黄仁勋复任CEO；知名手游宣布明年3月停止运营，曾月流水破10亿](https://www.leiphone.com/category/zaobao/ksECYyYOXDL6IQ2q.html)
 
 ## V2EX 热议
 
-1. [干半天才发现：人家没读书，却比我混得好](https://www.v2ex.com/t/1257459) 「职场话题」 — 💬 89
-2. [玩了发现恋物癖越来越严重了咋办](https://www.v2ex.com/t/1257575) 「问与答」 — 💬 84
-3. [[台灣站長不跑路] 不擔心封號，高穩定 Claude 中轉，評論送 5 刀（也有 Grok、GPT）](https://www.v2ex.com/t/1257569) 「推广」 — 💬 77
-4. [跟异性聊天总是没话题，有没有军师指点](https://www.v2ex.com/t/1257456) 「生活」 — 💬 73
-5. [AI 离谱越权操作一则，大家引以为戒](https://www.v2ex.com/t/1257395) 「程序员」 — 💬 70
-6. [有通勤一个半小时的老哥嘛](https://www.v2ex.com/t/1257548) 「生活」 — 💬 66
+1. [今天是我的生日](https://www.v2ex.com/t/1257707) 「生活」 — 💬 468
+2. [看到老黄因为出轨被撸，我也说个自己最近的经历](https://www.v2ex.com/t/1257733) 「生活」 — 💬 199
+3. [马克思的按需分配，能实现吗](https://www.v2ex.com/t/1257906) 「随想」 — 💬 123
+4. [黑苹果 x86 最后的容光了](https://www.v2ex.com/t/1257674) 「Apple」 — 💬 69
+5. [19 号，后天你们会请假吗？](https://www.v2ex.com/t/1257671) 「游戏」 — 💬 65
+6. [我解密了电信光猫里的 m01-b01-inner 插件：它能提取手机号、IMEI，能远程执行命令，还能扫描你家内网](https://www.v2ex.com/t/1257838) 「宽带症候群」 — 💬 58
 
 ## Hacker News
 
-1. [If an App Asks for Full Disk Access or System and App Protection Override](https://support.apple.com/en-us/149699)
-2. [Mem Is Shutting Down](https://get.mem.ai/blog/mem-is-shutting-down)
-3. [Running coding agents without handing them my credentials](https://blog.antonio.cx/running-agents-with-lend)
-4. [Pentagon fails ninth straight audit despite progress in organizing finances](https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/)
-5. [Why 3dfx 1 cards had such a washed out color output?](https://twitter.com/id_aa_carmack/status/2122478083319992513)
-6. [Show HN: Sutra-OS – A self-hosted ontology platform](https://github.com/0nelight/sutra-os)
-7. [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
-8. [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
+1. [GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer](https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer)
+2. [Cerebras Disaggregated Inference](https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference)
+3. [ID.me terms required for IRS sign-in](https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in)
+4. [Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)
+5. [Archive Team is archiving the Apple Support Community (closes November 20, 2026)](https://wiki.archiveteam.org/index.php/Apple_Discussions)
+6. [Microsoft's ONNX Runtime has disappeared from GitHub](https://github.com/microsoft/onnxruntime)
+7. [Latent Lattice Language Models](https://shivamduggal4.github.io/latent-lattice-language-models/)
+8. [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
 
 ## TechCrunch
 
-1. [Cybersecurity AI startup Corma reaches $1B valuation in about 3 months](https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/)
-2. [Cyber giant Infoblox confirms security incident after hackers access ‘company information’](https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/)
-3. [All the questions Nvidia should answer on Tuesday — but probably won’t](https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/)
-4. [Apple reveals new Mac security controls as AI agents raise privacy risks](https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/)
-5. [California state AG sues OpenAI over rogue agent incidents](https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/)
+1. [Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt](https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/)
+2. [Nvidia promises that revenue will keep soaring — for now](https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/)
+3. [Stripe backer Atomico calls for Europe to own its success stories](https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/)
+4. [Nvidia is abandoning China after Jensen Huang’s ouster](https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/)
+5. [Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit](https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/)
 
 ## The Verge
 
-1. [Hacker behind 2022 GTA VI leaks pleads guilty](https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj)
-2. [Tech leaders are convinced that Jensen Huang’s exit was a plot against him](https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories)
-3. [United Airlines system outage disrupts departures just days after the big ground stop](https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures)
-4. [In Get Huge, the manosphere is here to make friends — with deadly consequences](https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death)
-5. [California sues OpenAI over rogue AI hacking incidents](https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit)
+1. [Satya Nadella says he’s AGI-pilled now](https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now)
+2. [Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond](https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon)
+3. [Read everything that Nvidia’s board chair had to say about Jensen Huang](https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang)
+4. [iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair](https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub)
+5. [Nvidia says it does not intend to reinstate Jensen Huang as CEO](https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo)
 
 ## Ars Technica
 
-1. [Robo-soldier startup backed by Eric Trump misses payroll, may collapse](https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/)
-2. [Three small failures combined to take down Microsoft 365](https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/)
-3. [Hyperscale data centers use 2% of US electricity](https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/)
-4. [Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day](https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/)
-5. [Comcast's "fiber-powered Wi-Fi" is just cable, AT&T says in false advertising case](https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/)
+1. [Copilot is "the new OS for work," and now Office runs inside of it](https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/)
+2. [San Diego dumps both Flock cameras and smart streetlights](https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/)
+3. [Yet another satellite company is jockeying for a rocket—but this one makes sense](https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/)
+4. [Hundreds of websites deliver potent malware cocktail to unsuspecting visitors](https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/)
+5. [“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia](https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/)
 
 ## GitHub Blog
 
-1. [GitHub availability report: October 2026](https://github.blog/news-insights/company-news/github-availability-report-october-2026/)
-2. [Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/)
-3. [Git security vulnerabilities announced](https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/)
-4. [Beyond code generation: A developer’s guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/)
+1. [Maintainers don’t need more AI bug reports. They need fixes.](https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/)
+2. [Building the Agent Host Protocol for sessions that continue across devices](https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/)
+3. [GitHub availability report: October 2026](https://github.blog/news-insights/company-news/github-availability-report-october-2026/)
+4. [Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/)
 
 ---
 
@@ -129,6 +129,7 @@
 
 ## 历史归档
 
+- [2026-11-18](reports/2026-11-18.md)
 - [2026-11-17](reports/2026-11-17.md)
 - [2026-11-16](reports/2026-11-16.md)
 - [2026-11-15](reports/2026-11-15.md)
@@ -158,7 +159,6 @@
 - [2026-10-22](reports/2026-10-22.md)
 - [2026-10-21](reports/2026-10-21.md)
 - [2026-10-20](reports/2026-10-20.md)
-- [2026-10-19](reports/2026-10-19.md)
 
 ## 快速开始
 

@@ -5,116 +5,116 @@
 ## 今日日报
 
 
-> 自动生成于 2026-11-20 11:57 (北京时间)
+> 自动生成于 2026-11-21 11:56 (北京时间)
 
 ## IT之家
 
-1. [（更新）消息称 vivo S70 系列、iQOO 16R 手机春节前发布，主打 64Mp 旗舰级长焦、中屏轻旗舰](https://www.ithome.com/1/029/787.htm)
-2. [字节回应“原抖音 CEO 张楠、原飞书 CEO 谢欣将离职”：信息不准确](https://www.ithome.com/1/029/839.htm)
-3. [三星手机换帅了！崔元俊正式上位，卢泰文交出 MX 事业部大权](https://www.ithome.com/1/029/837.htm)
-4. [长安启源 Q06 增推 602 越享+ 版：升级座椅通风加热 + 50W 无线充电，限时权益价 13.59 万元](https://www.ithome.com/1/029/836.htm)
-5. [山灵 EH50 台式解码耳放一体机发售：双 CS4308P、6125mW@32Ω 输出功率，首发 1998 元](https://www.ithome.com/1/029/835.htm)
-6. [国产豪华倒三轮车型 MTPEAK One All 首秀：2.0T + 9AT 动力，首批全球限量 100 台](https://www.ithome.com/1/029/834.htm)
-7. [三星自研 AI 新进展：Gauss 4 现身 One UI 9.5 代码](https://www.ithome.com/1/029/833.htm)
-8. [国家能源局：截至 10 月底我国电动汽车充电基础设施（枪）总数达 2539.1 万个，同比增长 36.2%](https://www.ithome.com/1/029/832.htm)
-9. [TUXEDO InfinityBook Pro 15 - Gen11 - AMD 笔电发布，搭载 HX 470](https://www.ithome.com/1/029/831.htm)
-10. [三星 One UI 9.5 测试 Days：把通话、出行和支付等串成每日时间线](https://www.ithome.com/1/029/829.htm)
+1. [15 亿美元要价太高，曝苹果 / 迪士尼放弃竞购 2030 及 2034 年男足世界杯美国转播权](https://www.ithome.com/1/030/340.htm)
+2. [孙正义曾考虑万亿美元收购 SK 海力士？软银回应：已不再积极考虑](https://www.ithome.com/1/030/339.htm)
+3. [腾讯混元姚顺雨团队：Hy4 仍有很大改进空间，计划训练更大规模模型](https://www.ithome.com/1/030/338.htm)
+4. [Win11 学院：如何在 Windows 11 26x00.10075 开启 WinUI 原生重构版搜索体验](https://www.ithome.com/1/030/337.htm)
+5. [美国 SpaceX 龙飞船脱离空间站启程返回地球，携大量科研样本和设备](https://www.ithome.com/1/030/335.htm)
+6. [全球仅此一件：马斯克到访上海工厂收到员工特制“边角料手办”，陶琳晒图](https://www.ithome.com/1/030/334.htm)
+7. [拯救爆满的“下载”文件夹：微软 Win11 将推 AI 整理神器，授权后可查找 / 分类 / 移动 / 重命名文件](https://www.ithome.com/1/030/333.htm)
+8. [英伟达发布 GeForce 621.35 热修复驱动，修复 SSD 后台异常写入问题](https://www.ithome.com/1/030/332.htm)
+9. [荣耀 700/700 Pro 核心配置汇总：骁龙 8s Gen4 / 骁龙 8 Gen5，11 月 23 日发布](https://www.ithome.com/1/030/331.htm)
+10. [安卓手机有望变身 Win11 PC 副屏，微软“连接至 Windows”新功能曝光](https://www.ithome.com/1/030/330.htm)
 
 ## 少数派
 
-1. [浮屏：截图即可「上岛」，还能帮你记录生活](https://sspai.com/post/118879)
-2. [派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等](https://sspai.com/post/119311)
-3. [给 Apple 的 2026 年打分，请你一起参与](https://sspai.com/post/119191)
-4. [新玩意 256｜少数派的编辑们最近买了啥？](https://sspai.com/post/119287)
-5. [有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制](https://sspai.com/prime/story/system-app-protection-override-macos-27-3)
-6. [徒步旅行指南 | 玉龙虎跳峡与天堂雨崩](https://sspai.com/post/119039)
-7. [派早报：Apple 年度应用、TGA 2026 分别公布入围名单等](https://sspai.com/post/119239)
-8. [10 月音乐精选：音乐丰收季，必听这 7 张新专辑](https://sspai.com/post/118985)
-9. [App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑](https://sspai.com/post/118732)
-10. [跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾](https://sspai.com/post/119193)
+1. [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/119337)
+2. [游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验](https://sspai.com/post/119327)
+3. [浮屏：截图即可「上岛」，还能帮你记录生活](https://sspai.com/post/118879)
+4. [派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等](https://sspai.com/post/119311)
+5. [给 Apple 的 2026 年打分，请你一起参与](https://sspai.com/post/119191)
+6. [新玩意 256｜少数派的编辑们最近买了啥？](https://sspai.com/post/119287)
+7. [有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制](https://sspai.com/prime/story/system-app-protection-override-macos-27-3)
+8. [徒步旅行指南 | 玉龙虎跳峡与天堂雨崩](https://sspai.com/post/119039)
+9. [派早报：Apple 年度应用、TGA 2026 分别公布入围名单等](https://sspai.com/post/119239)
+10. [10 月音乐精选：音乐丰收季，必听这 7 张新专辑](https://sspai.com/post/118985)
 
 ## 爱范儿
 
-1. [AI Agent 元年，苹果是最后一个入局的巨头](https://www.ifanr.com/1690510?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄](https://www.ifanr.com/1690473?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [比亚迪发布折叠方向盘！首搭方程豹钛 9，27.99 万元起！](https://www.ifanr.com/1690430?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了](https://www.ifanr.com/1690375?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [今年是阔屏的元年，阔屏是手机的今后十年](https://www.ifanr.com/1690322?utm_source=rss&utm_medium=rss&utm_campaign=)
-6. [刚拒绝黄仁勋回归，英伟达官宣全员加薪，热门接班人曝光](https://www.ifanr.com/1690288?utm_source=rss&utm_medium=rss&utm_campaign=)
-7. [早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万](https://www.ifanr.com/1690255?utm_source=rss&utm_medium=rss&utm_campaign=)
-8. [刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5](https://www.ifanr.com/1690235?utm_source=rss&utm_medium=rss&utm_campaign=)
-9. [《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏](https://www.ifanr.com/1690188?utm_source=rss&utm_medium=rss&utm_campaign=)
-10. [这届高校学生，为何选择用鸿蒙创新？](https://www.ifanr.com/1690168?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验](https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=)
+2. [理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它](https://www.ifanr.com/1690596?utm_source=rss&utm_medium=rss&utm_campaign=)
+3. [首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」](https://www.ifanr.com/1690642?utm_source=rss&utm_medium=rss&utm_campaign=)
+4. [给 Gemini 道歉，请自觉排队](https://www.ifanr.com/1690572?utm_source=rss&utm_medium=rss&utm_campaign=)
+5. [触屏只是它最不起眼的升级｜MacBook PROLED 评测](https://www.ifanr.com/1690404?utm_source=rss&utm_medium=rss&utm_campaign=)
+6. [AI Agent 元年，苹果是最后一个入局的巨头](https://www.ifanr.com/1690510?utm_source=rss&utm_medium=rss&utm_campaign=)
+7. [早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄](https://www.ifanr.com/1690473?utm_source=rss&utm_medium=rss&utm_campaign=)
+8. [比亚迪发布折叠方向盘！首搭方程豹钛 9，27.99 万元起！](https://www.ifanr.com/1690430?utm_source=rss&utm_medium=rss&utm_campaign=)
+9. [刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了](https://www.ifanr.com/1690375?utm_source=rss&utm_medium=rss&utm_campaign=)
+10. [今年是阔屏的元年，阔屏是手机的今后十年](https://www.ifanr.com/1690322?utm_source=rss&utm_medium=rss&utm_campaign=)
 
 ## 钛媒体
 
-1. [新机卖不动，爱回收却更赚钱了｜看财报](https://www.tmtpost.com/8208338.html)
-2. [摘掉PC单一标签，AI开始改写联想的利润表](https://www.tmtpost.com/8211786.html)
-3. [北汽押注千TOPS算力芯片，舱驾融合还有多远？](https://www.tmtpost.com/8210564.html)
-4. [阿里云加速增长，平头哥走向台前 | 看财报](https://www.tmtpost.com/8211922.html)
-5. [DeepSeek限额：免费用户成了AGI的“拦路虎”？](https://www.tmtpost.com/8212022.html)
-6. [阿里被迫“收手”](https://www.tmtpost.com/8211980.html)
-7. [一鸣食品攻坚下午茶](https://www.tmtpost.com/8211923.html)
-8. [人形机器人遇冷：日租价从3000继续掉到1800，7月后融资普遍下滑](https://www.tmtpost.com/8211952.html)
-9. [Anthropic上市，10个值得关注的真相](https://www.tmtpost.com/8212016.html)
-10. [最近，创投圈冒出了一批神秘GP](https://www.tmtpost.com/8212032.html)
+1. [旧面板厂不愁卖，芯片巨头为什么排队接盘](https://www.tmtpost.com/8213412.html)
+2. [从“刷分”打到“补缝”，机器人新竞赛升温](https://www.tmtpost.com/8213064.html)
+3. [做科学家创业路上的“一致行动人”——  从一间工位到一桌夜话，海淀“接得住”科学家的每一步](https://www.tmtpost.com/8213414.html)
+4. [跑不通“快餐模式”，陪伴机器人得熬出“人情味”](https://www.tmtpost.com/8212950.html)
+5. [现金流为王的周期来了？](https://www.tmtpost.com/8213356.html)
+6. [外卖翻篇，阿里把钱砸向AI](https://www.tmtpost.com/8213142.html)
+7. [Muse负责人首次公开对谈：七个月，从玩具到1000万下载](https://www.tmtpost.com/8213062.html)
+8. [姚顺雨现身Reddit答问两小时：混元后训练最难的问题，是过度思考](https://www.tmtpost.com/8213389.html)
+9. [AI交易雪崩：纳指单日狂泻1261点，这次市场不再相信“故事”](https://www.tmtpost.com/8213381.html)
+10. [GTA 6 可以慢慢来，独立游戏等不起](https://www.tmtpost.com/8213018.html)
 
 ## 雷锋网
 
-1. [商汤20%资源投入背后的逻辑：林达华谈拼手速与长期竞争力](https://www.leiphone.com/category/ai/0u1BjHIMazUFuNZc.html)
-2. [拼多多发布Q3财报，“新十年高质量发展”一周年，供需两侧实现提质增效](https://www.leiphone.com/category/industrynews/cdP5NzdCcD8j0BB5.html)
-3. [阿里财报：国际站GMV持续双位数增长，Accio付费企业数翻倍](https://www.leiphone.com/category/industrynews/c9oojTZh4VSNL1dX.html)
-4. [阿里云外部收入增长64%，增速创近六年新高](https://www.leiphone.com/category/industrynews/GlHj8MIKX7YGLxU3.html)
-5. [田渊栋创业合伙人：通往 AGI 最快的路，只能是 AI 造 AI | CoRL 2026](https://www.leiphone.com/category/private/wIgMWmjlB5GTKg6e.html)
-6. [闪耀APEC的中国智造：大疆手持影像技术，成为全球媒体生产力标配](https://www.leiphone.com/category/industrynews/iJAlee24RO19u4OW.html)
-7. [Google 杀入 Jev 核心赛道：Gemini Decision 1 五项基准领先两项落后](https://www.leiphone.com/category/ai/wctgzdX4CN2RVxCm.html)
-8. [诺亦腾机器人入选 The Information 2026 全球最具潜力50家初创企业榜单](https://www.leiphone.com/category/ai/AfdiA9NBN3TJrgDL.html)
-9. [黄仁勋「每天都在用」的 Perplexity 开始重构 Attention，把「判断」做成了一个独立模型](https://www.leiphone.com/category/ai/BBB268wCIfSkzRPY.html)
-10. [对话西湖大学于开丞：通用语言模型再强，物理世界也「等不起」](https://www.leiphone.com/category/academic/6GxO2SjZl8UPTGhH.html)
+1. [上汽通用发布真龙插混MAX，首搭别克至境世家](https://www.leiphone.com/category/industrynews/SiETkjl6gqYBSCz4.html)
+2. [拓竹 MakerWorld，为什么难复制？](https://www.leiphone.com/category/weiwu/zv5a8TgwqnZmROX5.html)
+3. [灵掌机器人太空灵巧手亮相世界智能制造博览会](https://www.leiphone.com/category/industrynews/leaIWtsEkg58zaCy.html)
+4. [解读丨智能戒指红海之外，Elah Ring 正在深入美国腹地](https://www.leiphone.com/category/weiwu/ptAnAiMGqEOX65EI.html)
+5. [享界V8正式上市售价31.98万元起，鸿蒙智行首款纯电MPV瞄准高端家用](https://www.leiphone.com/category/industrynews/Tjsd07j74heQpJKc.html)
+6. [速卖通双11中国商家狂揽全球订单：品牌成交大涨近50%，美巴创历史新高](https://www.leiphone.com/category/industrynews/PyCDSvzY37FZLkZA.html)
+7. [速卖通双11收官：品牌成交大涨近50%，美国、巴西、小众潜力市场均创新高](https://www.leiphone.com/category/industrynews/RBVQITzBAqkoQGzE.html)
+8. [Lazada双11：品牌商城贡献近八成成交，天猫一键轻出海增长超200%](https://www.leiphone.com/category/industrynews/eimD3gxofdJcSrVY.html)
+9. [CoCreate伦敦峰会揭开跨境B2B电商新机遇：阿里国际站欧洲订单三年增长70%](https://www.leiphone.com/category/industrynews/eqi19Azefys58IT4.html)
+10. [方程豹钛9上市：27.99万元起，折叠方向盘首次上车](https://www.leiphone.com/category/transportation/Okzc1pyWcptuTh5J.html)
 
 ## V2EX 热议
 
-1. [我的 App 火了，然后苹果威胁要关闭我的开发者账号](https://www.v2ex.com/t/1258411) 「iDev」 — 💬 126
-2. [我的悲哀 我父母的悲哀](https://www.v2ex.com/t/1258332) 「职场话题」 — 💬 109
-3. [没有人会不爱上 Gemini 4 Neon](https://www.v2ex.com/t/1258290) 「🤖Vibe Coding」 — 💬 78
-4. [结婚后对象想买特斯拉 model y](https://www.v2ex.com/t/1258451) 「生活」 — 💬 75
-5. [统计了 V2EX 近 15 年提到「裁员」或「失业」的帖子](https://www.v2ex.com/t/1258315) 「职场话题」 — 💬 73
-6. [小弟需要贷款，想问下各路大佬怎么找到性价比最高的途径](https://www.v2ex.com/t/1258362) 「问与答」 — 💬 65
+1. [牵手、亲吻之后，第二天却被告知不想继续了](https://www.v2ex.com/t/1258512) 「情感问题」 — 💬 105
+2. [95 年生，今年 31，准备买辆车，想听听兄弟们的建议。](https://www.v2ex.com/t/1258549) 「汽车」 — 💬 76
+3. [分享点个人焦虑](https://www.v2ex.com/t/1258521) 「生活」 — 💬 54
+4. [在清华读了一年非全后的感受](https://www.v2ex.com/t/1258591) 「清华大学」 — 💬 47
+5. [分享个出租屋男女的故事](https://www.v2ex.com/t/1258542) 「生活」 — 💬 40
+6. [[送码] 波波小红书获客助手：养号、AI 自动评论、自动发现线索（自己天天在用的小工具）](https://www.v2ex.com/t/1258559) 「分享创造」 — 💬 40
 
 ## Hacker News
 
-1. [What Comes After AGI?](https://institute.deepmind.com/essays/what-comes-after-agi/)
-2. [Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup](https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/)
-3. [OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)
-4. [Vint Cerf on why TCP/IP was never patented](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)
-5. [Postgres 19 is out, and it's available on Neon and Databricks Lakebase](https://www.databricks.com/blog/postgresql-19-available-lakebase)
-6. [Gemini 4 Neon is the new #1 on the Models Engineering Index](https://git-aarvin.github.io/mei/)
-7. [Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers](https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87)
-8. [RegExr: Temporarily Offline](https://regexr.com/)
+1. [Clojure will affect the way you think about programming (2017)](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
+2. [Integrals of Polynomials with Galois Group S_p](https://m-slee.netlify.app/posts/integrals-galois-polynomials)
+3. [I Don't Trust Visual Recordings Anymore. But One Day I Will Again](https://spectrum.ieee.org/fighting-back-against-deep-fakes)
+4. [Re: Riemann](https://borretti.me/article/re-riemann)
+5. [Serious cyberattack thought backed by wealthy operators](https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411)
+6. [Sir Brian May adds new dimension to Hera asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
+7. [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
+8. [The Hungry Butler Effect: Concealed Commercial Incentives in LLMs](https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models)
 
 ## TechCrunch
 
-1. [Apple may be developing its own AI agent that runs your Mac](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/)
-2. [Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO](https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/)
-3. [Anthropic rival says companies can (mostly) skip the pricey models](https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/)
-4. [Elon Musk says SpaceX has a plan to eliminate cell phone dead zones](https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/)
-5. [Want to see your live AI usage on your Mac’s icons? This clever new app lets you](https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/)
+1. [Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now](https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/)
+2. [Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.](https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/)
+3. [AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too](https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/)
+4. [Super-hot rock geothermal could end data center energy woes](https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/)
+5. [Chips can survive the space environment — can their financing?](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/)
 
 ## The Verge
 
-1. [Apple is hiring engineers to build its own AI agent](https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing)
-2. [A brief history of Nvidia’s recent stock fluctuations](https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings)
-3. [Meta now sells 3D movies on Quest VR headsets](https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app)
-4. [Meta’s Muse Charm might cost $300](https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price)
-5. [Google is putting AI chats right on the homepage](https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats)
+1. [YouTube is reportedly preparing to settle social media addiction claims for $3 billion](https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement)
+2. [Rockstar says GTA VI made $3.79 billion in its first day](https://www.theverge.com/games/1036279/gta-vi-sales)
+3. [Eufy’s Omni C28 is 53 percent off ahead of Black Friday](https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale)
+4. [Trump threatens ‘tremendous tax’ for moving AI data centers outside the US](https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax)
+5. [Multiplying your Switch 2’s storage costs less than usual right now](https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale)
 
 ## Ars Technica
 
-1. [Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up](https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/)
-2. [MAHA PAC spent more on steak, luxury club than candidates, report shows](https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/)
-3. [Man hired by Russia spied on Silicon Valley tech and defense company, feds say](https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/)
-4. [Traumatized teens sue school, cops after Doritos bag triggers AI gun alert](https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/)
-5. [Google turns to Blue Origin for a rocket, but its long-term problem remains](https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/)
+1. [Trump FCC declares California isn't allowed to enforce phone service rules](https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/)
+2. [SpaceX's Starshield troubles in Ukraine could threaten its broader military business](https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/)
+3. [Google rolls out new search homepage with AI chat history and no search button](https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/)
+4. [Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers](https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/)
+5. [Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/)
 
 ## GitHub Blog
 
@@ -129,6 +129,7 @@
 
 ## 历史归档
 
+- [2026-11-21](reports/2026-11-21.md)
 - [2026-11-20](reports/2026-11-20.md)
 - [2026-11-19](reports/2026-11-19.md)
 - [2026-11-18](reports/2026-11-18.md)
@@ -158,7 +159,6 @@
 - [2026-10-25](reports/2026-10-25.md)
 - [2026-10-24](reports/2026-10-24.md)
 - [2026-10-23](reports/2026-10-23.md)
-- [2026-10-22](reports/2026-10-22.md)
 
 ## 快速开始
 

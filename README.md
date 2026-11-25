@@ -5,123 +5,123 @@
 ## 今日日报
 
 
-> 自动生成于 2026-11-24 14:55 (北京时间)
+> 自动生成于 2026-11-25 13:24 (北京时间)
 
 ## IT之家
 
-1. [《GTA 6》让同行压力山大，《赛博朋克 2》创意总监调侃项目已取消](https://www.ithome.com/1/031/497.htm)
-2. [Linux 发行版 CachyOS 迎来 2026 年 11 月更新，支持 EAC v2 反作弊](https://www.ithome.com/1/031/495.htm)
-3. [醉酒车主开启辅助驾驶后爬到后排呼呼大睡，被判拘役并处罚金](https://www.ithome.com/1/031/494.htm)
-4. [隐藏款 1/64 概率：柯达 SlideTag 追踪器盲盒开售，配 1.54 英寸 6 色电子墨水屏](https://www.ithome.com/1/031/493.htm)
-5. [马斯克 Neuralink 临床演示视频公开：脑机接口受试者凭意念畅玩《GTA 6》](https://www.ithome.com/1/031/492.htm)
-6. [余承东：华为大折叠手机全球发货量突破 1200 万台](https://www.ithome.com/1/031/491.htm)
-7. [IDC 预测：2027 年智能眼镜全球出货将突破 2622 万台](https://www.ithome.com/1/031/490.htm)
-8. [大众汽车启动新一轮劳资谈判：计划裁员 10 万人，工会威胁罢工](https://www.ithome.com/1/031/488.htm)
-9. [《GTA 6》暗藏《超级马力欧》彩蛋：可通过顶砖块获得隐藏帽子](https://www.ithome.com/1/031/487.htm)
-10. [曝马斯克的 SpaceX 和特斯拉已委派五名董事负责合并谈判](https://www.ithome.com/1/031/485.htm)
+1. [截至 10 月底，我国累计发电装机容量同比增长 10.9%](https://www.ithome.com/1/032/096.htm)
+2. [越南南北高铁计划 2028 年启动：法韩越八家企业组成的联合体中标，总投资约 673 亿美元](https://www.ithome.com/1/032/095.htm)
+3. [星际荣耀双曲线三号火箭完成尾段极限载荷静力试验，为“首飞入轨 + 海上回收”铺路](https://www.ithome.com/1/032/093.htm)
+4. [小米新机通过 3C 认证：有望为 REDMI Note 18，配备 45W 充电 + 8888mAh 电池](https://www.ithome.com/1/032/092.htm)
+5. [《英雄联盟》全队语音开启测试，拳头合作主播 Tyler1 因辱骂队友被封 3 天](https://www.ithome.com/1/032/091.htm)
+6. [华为将在 ISSCC 2027 展示五层混合键合 HBM、逻辑芯片 3D 堆叠等先进技术](https://www.ithome.com/1/032/090.htm)
+7. [高盛：美国数据中心建设热潮有望持续至 2028 年，推高电力与天然气需求](https://www.ithome.com/1/032/089.htm)
+8. [《三体》电影版编剧陈宇：已集中写剧本两年多时间，自己和张艺谋压力都非常大](https://www.ithome.com/1/032/087.htm)
+9. [消息称国产 Jeep 首款车型 2027 年推出，搭载 Momenta 高阶智驾](https://www.ithome.com/1/032/086.htm)
+10. [约 23 年里至少 5 次尝试：微软再战“人脉”，Win11 小部件可直达聊天](https://www.ithome.com/1/032/084.htm)
 
 ## 少数派
 
-1. [写在动荡之后：漫步巴黎的寻常一日](https://sspai.com/post/119412)
-2. [派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等](https://sspai.com/post/119460)
-3. [派评 | 近期值得关注的 App](https://sspai.com/post/119438)
-4. [怪手机们要回来了吗？](https://sspai.com/prime/story/weird-phones-are-returning)
-5. [养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验](https://sspai.com/post/119023)
-6. [新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」](https://sspai.com/post/118705)
-7. [派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想](https://sspai.com/post/119418)
-8. [从深圳到上海，少数派的共创故事还在继续](https://sspai.com/post/119318)
-9. [这群在鸿蒙写应用的年轻人，只想做点「用得上」的](https://sspai.com/post/119291)
-10. [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/119337)
+1. [怀旧手记｜Palm Pre：内藏「划时代」系统的手机](https://sspai.com/post/118791)
+2. [派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等](https://sspai.com/post/119527)
+3. [社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同](https://sspai.com/post/119492)
+4. [[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔](https://sspai.com/post/119035)
+5. [写在动荡之后：漫步巴黎的寻常一日](https://sspai.com/post/119412)
+6. [派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等](https://sspai.com/post/119460)
+7. [派评 | 近期值得关注的 App](https://sspai.com/post/119438)
+8. [怪手机们要回来了吗？](https://sspai.com/prime/story/weird-phones-are-returning)
+9. [养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验](https://sspai.com/post/119023)
+10. [新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」](https://sspai.com/post/118705)
 
 ## 爱范儿
 
-1. [「试用期」已到，苹果开始给 AI 收费了 | AG&I](https://www.ifanr.com/1691186?utm_source=rss&utm_medium=rss&utm_campaign=)
-2. [iPhone 相机掌门人退休：他把「果味」做成标杆，也制造了争议](https://www.ifanr.com/1691162?utm_source=rss&utm_medium=rss&utm_campaign=)
-3. [刚刚，Claude 黎曼猜想证明的主导者回应一切](https://www.ifanr.com/1691152?utm_source=rss&utm_medium=rss&utm_campaign=)
-4. [早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布](https://www.ifanr.com/1691119?utm_source=rss&utm_medium=rss&utm_campaign=)
-5. [刚刚，黄仁勋重返英伟达！董事会全票通过，盘前大涨 30%](https://www.ifanr.com/1691103?utm_source=rss&utm_medium=rss&utm_campaign=)
-6. [突发！黄仁勋恢复英伟达 CEO 职位，董事会全票通过](https://www.ifanr.com/1691096?utm_source=rss&utm_medium=rss&utm_campaign=)
-7. [AI 降本增笑，全世界都在被迫接受审美大降级](https://www.ifanr.com/1691079?utm_source=rss&utm_medium=rss&utm_campaign=)
-8. [自变量发布 WALL-API-1.0，主流榜单超越 Astra，扛起具身智能「预训练」的大旗](https://www.ifanr.com/1691043?utm_source=rss&utm_medium=rss&utm_campaign=)
-9. [33.99 万起买 400V 与 8 秒零百前驱车，纯电雷克萨斯 ES 贵过头了](https://www.ifanr.com/1691012?utm_source=rss&utm_medium=rss&utm_campaign=)
-10. [鸿蒙版醒图新版本上线：AI修图「不烧心」](https://www.ifanr.com/1690991?utm_source=rss&utm_medium=rss&utm_campaign=)
+1. [Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2](https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign)
+2. [早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台](https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign)
+3. [18.79 万元起！比亚迪唐 EV 正式上市，砍掉七座换来 850km 续航，还有线控底盘](https://www.ifanr.com/1691381?utm_source=rss&utm_medium=rss&utm_campaign)
+4. [实测小豆：主动办事的背后，AI 正在走向每一个人](https://www.ifanr.com/1691355?utm_source=rss&utm_medium=rss&utm_campaign)
+5. [华为发布了大折叠手机和小折叠电脑，但 1 亿鸿蒙设备才是最大的亮点](https://www.ifanr.com/1691302?utm_source=rss&utm_medium=rss&utm_campaign)
+6. [在一个长期相信考试可以改变命运的社会里，AI 已经开始动摇人们对成绩的信任](https://www.ifanr.com/1691270?utm_source=rss&utm_medium=rss&utm_campaign)
+7. [「试用期」已到，苹果开始给 AI 收费了 | AG&I](https://www.ifanr.com/1691186?utm_source=rss&utm_medium=rss&utm_campaign)
+8. [iPhone 相机掌门人退休：他把「果味」做成标杆，也制造了争议](https://www.ifanr.com/1691162?utm_source=rss&utm_medium=rss&utm_campaign)
+9. [刚刚，Claude 黎曼猜想证明的主导者回应一切](https://www.ifanr.com/1691152?utm_source=rss&utm_medium=rss&utm_campaign)
+10. [早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布](https://www.ifanr.com/1691119?utm_source=rss&utm_medium=rss&utm_campaign)
 
 ## 钛媒体
 
-1. [CAR-T的分水岭时刻](https://www.tmtpost.com/8215707.html)
-2. [马斯克谈支持黄仁勋：逆境时才能看到真朋友](https://www.tmtpost.com/8215202.html)
-3. [苹果做智能体，OpenAI做手机](https://www.tmtpost.com/8215096.html)
-4. [困惑度，为什么成了衡量RSI进度的“度量衡”？](https://www.tmtpost.com/8215712.html)
-5. [中国旺旺，跋涉越冬](https://www.tmtpost.com/8215711.html)
-6. [Kimi看好的AI4S：假如成千上万个分子涌向临床，谁能活到最后？](https://www.tmtpost.com/8215303.html)
-7. [黄仁勋回来了，明星创始人为何“赶不走”？](https://www.tmtpost.com/8215547.html)
-8. [ADC杀出一匹黑马](https://www.tmtpost.com/8215427.html)
-9. [《丑狐》爆火出圈，中式志怪成AI短剧新流量密码？](https://www.tmtpost.com/8215550.html)
-10. [零跑股价大跌13%，市场在恐慌什么？](https://www.tmtpost.com/8215444.html)
+1. [世界模型变天了](https://www.tmtpost.com/8216357.html)
+2. [手机、汽车、AI，小米需要一场新的增长接力](https://www.tmtpost.com/8216871.html)
+3. [被红果改写的Q3财报季](https://www.tmtpost.com/8216958.html)
+4. [这届年轻人开始劝父母卖掉租不上价的房，用来收息](https://www.tmtpost.com/8216479.html)
+5. [新鲜感之后，陪伴机器人如何被用起来？](https://www.tmtpost.com/8212446.html)
+6. [Edge AI Daily 早报（11月25日）](https://www.tmtpost.com/8216877.html)
+7. [【钛晨报】8000亿+5000亿！中国央行“组合拳”出手；新加坡子公司被列入美实体清单，阿里巴巴回应；工业富联大手笔分红，拟派现超132亿元](https://www.tmtpost.com/8216719.html)
+8. [编造检验记录，宝莱特华北唯一透析粉液基地遭飞检停产](https://www.tmtpost.com/8216634.html)
+9. [内存涨价、换机乏力，荣耀如何接住中端市场的难题](https://www.tmtpost.com/8216686.html)
+10. [自变量发布具身基础模型WALL-OSS-1.0，自测零样本成功率55.1%](https://www.tmtpost.com/8216666.html)
 
 ## 雷锋网
 
-1. [文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议](https://www.leiphone.com/category/industrynews/X2LHtIreyiO6depw.html)
-2. [蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险](https://www.leiphone.com/category/industrynews/lVVGnHDROrkdwJLp.html)
-3. [豆包工作下调多款模型消耗倍率，超八成日常任务免费用](https://www.leiphone.com/category/industrynews/SWU1FnevSoIn4MNM.html)
-4. [公积金智能化应用创新案例发布，支付宝参与共建](https://www.leiphone.com/category/industrynews/ICe6gznRO80vcMxl.html)
-5. [英伟达恢复黄仁勋CEO职务！黄仁勋重返公司总部，受到数百名员工迎接；DeepSeek最新估值或达6078亿元；蚂蚁开源医疗AI模型家族丨雷峰早报](https://www.leiphone.com/category/zaobao/Ao31dQuXPBTU7qpK.html)
-6. [科研成果 | 智能计算实验室方承煜同学成果被NeurIPS2026接收｜NeurIPS 2026](https://www.leiphone.com/category/private/wwE4LOG5RjKsajCu.html)
-7. [驭电飞驰，向车而行 | 光跃投资走进2026中国大学生方程式大赛合肥赛场](https://www.leiphone.com/category/weiwu/wXdEB0qbbYQ2PfPH.html)
-8. [华为星芒限时5499元起，网友喊话再便宜500，刘赫回应：我们选择创新优先；英伟达才说H200芯片不卖中国，美财长突喊：不用再限丨雷峰早报](https://www.leiphone.com/category/zaobao/WvQYh5bertpjOZdF.html)
-9. [市场份额超90%！从康辉街头出镜到APEC，大疆Pocket为何被反复选择？](https://www.leiphone.com/category/industrynews/nZ7Wi4BaZP4Ej5G2.html)
-10. [独家解读丨苦战三个月，AI办公经得起财报检验吗？](https://www.leiphone.com/category/industrynews/A2PIgIjrlQx63RSp.html)
+1. [千问Go全面开放免费代打电话服务，支持订餐厅、找快递、寻失物](https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html)
+2. [CCF HPC 2026访谈：HPC与AI需求推动算力走向系统协同](https://www.leiphone.com/category/chips/yHCLu9wEjr4z9AgA.html)
+3. [传统大厂的智驾，困在了组织里](https://www.leiphone.com/category/transportation/Q7xf6JUVu3HScTsH.html)
+4. [从「卖向全球」到「扎根全球」，奇瑞怎么把增长做久？](https://www.leiphone.com/category/transportation/DQjM3IyKu5bVltcG.html)
+5. [中国汽车的下一场硬仗：让世界为中国式豪华买单](https://www.leiphone.com/category/transportation/mQcJOTY4udaVnxHp.html)
+6. [蚂蚁OceanBase交出六年政企成绩单：服务22个省级数字政府、三分之一央企核心系统](https://www.leiphone.com/category/industrynews/b7Pw487MPHsDMSyR.html)
+7. [百度智能云等发起香港前沿科技产业发展联盟，助力具身智能企业拓展全球市场](https://www.leiphone.com/category/industrynews/uFuwhvMHGUY0Qeu0.html)
+8. [自营商品获国际奖项，新华网报告：零售商“定义商品”助推中国零售业高质量发展](https://www.leiphone.com/category/industrynews/YnXVvIVqWjrFhrDC.html)
+9. [华金证券接入千问办公，73个技能重塑投研风控全流程](https://www.leiphone.com/category/industrynews/ubwFeDsrkrcQf1BB.html)
+10. [解锁折叠屏新体验范式，华为Mate X8铸就华为史上最强大折叠](https://www.leiphone.com/category/industrynews/SA56oov1EKhe9sPs.html)
 
 ## V2EX 热议
 
-1. [2026 年我的常用 Mac 软件分享](https://www.v2ex.com/t/1259301) 「macOS」 — 💬 91
-2. [黄仁勋又重新回到了他的英伟达，服了，把全世界当猴耍](https://www.v2ex.com/t/1259265) 「NVIDIA」 — 💬 90
-3. [北京 35+前端失业一个月心态崩了，想去干转转上门回收，月入过万靠谱吗？](https://www.v2ex.com/t/1259332) 「职场话题」 — 💬 81
-4. [密码管理怎么做比较好？](https://www.v2ex.com/t/1259186) 「信息安全」 — 💬 73
-5. [仁勋这招叫做以退为进吗？](https://www.v2ex.com/t/1259299) 「问与答」 — 💬 66
-6. [有哪些任务是 Deepseek Flash4.1 无法胜任，而 Claude / ChatGPT 可以的？](https://www.v2ex.com/t/1259180) 「程序员」 — 💬 63
+1. [养猫两个月，我和猫的关系却越来越糟](https://www.v2ex.com/t/1259458) 「宠物」 — 💬 207
+2. [理发怎么能那么贵！](https://www.v2ex.com/t/1259612) 「生活」 — 💬 110
+3. [我知道你几岁](https://www.v2ex.com/t/1259639) 「分享创造」 — 💬 96
+4. [大家怎么第一次面对亲人的离去？](https://www.v2ex.com/t/1259613) 「生活」 — 💬 87
+5. [密码管理很少见到大家用苹果自带的 passwords](https://www.v2ex.com/t/1259605) 「问与答」 — 💬 53
+6. [google 账号怎么注册啊？刚又被封了一个...](https://www.v2ex.com/t/1259433) 「Google」 — 💬 50
 
 ## Hacker News
 
-1. [Drone Maps of Salvage Yards](https://salvageyarddrone.wordpress.com/)
-2. [Hacking radiators](https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/)
-3. [Making a dumb TV just smart enough](https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/)
-4. [Declare is a UI language for you and your AI](https://davidtemkin.github.io/declarelang/)
-5. [Rune: Rust VM for Emacs](https://github.com/CeleritasCelery/rune)
-6. [New York Bans Subscription and Post-Purchase Fees on Cars](https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription)
-7. [The Power of GraphQL, Without GraphQL](https://cobalt27.dev/)
-8. [The search for a top dark matter candidate](https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/)
+1. [Show HN: U.S. Interstate Weather](https://www.interstateweather.com/)
+2. [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
+3. [Gemini refused to give me the lyrics to Twinkle Twinkle Little Star](https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F)
+4. [Marginalia Search, Money, C++, Rust, AI, Stuff](https://www.marginalia.nu/log/a_141_marginalia_update/)
+5. [A faster algorithm for extracting hexadecimal digits of π](https://www.stylewarning.com/posts/faster-digit-extraction/)
+6. [Serving Qwen via AWS Lambdas for fun and 80x negative profit](https://noahbuilt.it/writing/qwen-on-5600-lambdas)
+7. [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
+8. [Show HN: Sliding-panes React UI library (inspired by WebOS Enyo)](https://vcarl.com/sashay/)
 
 ## TechCrunch
 
-1. [Figma employee sues, alleging company forced her to confront harassers](https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/)
-2. [Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)
-3. [Supertake raises $20M to let AI agents turn your market predictions into stock portfolios](https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/)
-4. [Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal](https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/)
-5. [Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist](https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/)
+1. [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion](https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/)
+2. [Trump reportedly says pardoning Jensen Huang is ‘an option’](https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/)
+3. [Jensen Huang still thinks a succession plan creates unnecessary hierarchy](https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/)
+4. [In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy](https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/)
+5. [Even the best AI agents struggle with everyday life](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/)
 
 ## The Verge
 
-1. [Google alternative Kagi launches an email service](https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative)
-2. [The hacker behind early GTA VI leaks has been sentenced — and released](https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released)
-3. [The Verge’s 2026 holiday gift guide](https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026)
-4. [Ladybird, the first new browser engine in years, is now available to test](https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing)
-5. [Trump engineered a risky comeback for Jensen Huang](https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated)
+1. [US financial crimes bureau discloses ‘cybersecurity incident’](https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident)
+2. [The Verge’s 2026 gift guide for dads](https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026)
+3. [Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa](https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa)
+4. [Huawei found guilty of stealing trade secrets](https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial)
+5. [GTA VI PC recompilation project shut down by Take-Two](https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two)
 
 ## Ars Technica
 
-1. [Trump halts Iowa detonation, says new governor to blame if it blows accidentally](https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/)
-2. [States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/)
-3. [Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret](https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/)
-4. [Surveillance pricing uses our personal data to make us pay more](https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/)
-5. [Amazon fights Delivery Protection Act by putting stickers on its packages](https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/)
+1. [Half of NASA's aging Mars fleet knocked offline by technical issues](https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/)
+2. [Microsoft's historic cloud outage exposed an engineering “fog of war”](https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/)
+3. [What's going on with the Riemann hypothesis?](https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/)
+4. [Back-to-back measles deaths is our new reality; US tally now at 14](https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/)
+5. [Amazon drone crashes on garage after delivering shampoo, draws FAA probe](https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/)
 
 ## GitHub Blog
 
-1. [The best things in open source are built together](https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/)
-2. [Maintainers don’t need more AI bug reports. They need fixes.](https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/)
-3. [Building the Agent Host Protocol for sessions that continue across devices](https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/)
-4. [GitHub availability report: October 2026](https://github.blog/news-insights/company-news/github-availability-report-october-2026/)
+1. [These are the gifts developers will actually want](https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/)
+2. [The best things in open source are built together](https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/)
+3. [Maintainers don’t need more AI bug reports. They need fixes.](https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/)
+4. [Building the Agent Host Protocol for sessions that continue across devices](https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/)
 
 ---
 
@@ -129,6 +129,7 @@
 
 ## 历史归档
 
+- [2026-11-25](reports/2026-11-25.md)
 - [2026-11-24](reports/2026-11-24.md)
 - [2026-11-23](reports/2026-11-23.md)
 - [2026-11-22](reports/2026-11-22.md)
@@ -158,7 +159,6 @@
 - [2026-10-29](reports/2026-10-29.md)
 - [2026-10-28](reports/2026-10-28.md)
 - [2026-10-27](reports/2026-10-27.md)
-- [2026-10-26](reports/2026-10-26.md)
 
 ## 快速开始
 

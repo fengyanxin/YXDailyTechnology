@@ -5,92 +5,92 @@
 ## 今日日报
 
 
-> 自动生成于 2026-11-27 12:58 (北京时间)
+> 自动生成于 2026-11-28 12:42 (北京时间)
 
 ## IT之家
 
-1. [长城欧拉 5 PLUS 全新车色“云栖青”亮相广州车展](https://www.ithome.com/1/033/327.htm)
-2. [魏牌谭健：打死不做增程、打死不做速成，是长城汽车永远不变的做事准则](https://www.ithome.com/1/033/326.htm)
-3. [CNET 测试苹果 iPhone Duo 开合已超 67.8 万次，出现闭合异常](https://www.ithome.com/1/033/325.htm)
-4. [定位“新派越野”，奇瑞纵横 R700 全球首秀](https://www.ithome.com/1/033/324.htm)
-5. [广汽昊铂官宣全新跨界车型：主打宽阔低趴，明年见](https://www.ithome.com/1/033/322.htm)
-6. [追短剧“上头”大脑真的会变笨吗，专家称多数人充分休息后可恢复、长期损害适应社会能力](https://www.ithome.com/1/033/321.htm)
-7. [长城汽车发布行业首个全场景物理 AI 操作系统 Coffee AIOS 4](https://www.ithome.com/1/033/320.htm)
-8. [全新深蓝 L07 AI 激光版车型上市：首批搭载华为星驰辅助驾驶，限时权益价 14.99 万元起](https://www.ithome.com/1/033/319.htm)
-9. [纳德拉承认微软放缓应届生招聘，AI 时代年轻人的第一份工作更难拿](https://www.ithome.com/1/033/309.htm)
-10. [长三角铁路首次：安徽淮阜、淮蚌、巢马三条高铁同日开通，和县、濉溪、固镇、蒙城、利辛 5 县结束不通高铁的历史](https://www.ithome.com/1/033/295.htm)
+1. [马斯克：Grok Bot 的目标是让你可以构建整个公司](https://www.ithome.com/1/033/827.htm)
+2. [“iPod 之父”法德尔：OpenAI 曾邀乔纳森 · 艾维打造实体 AI 设备，因为苹果永远不会提供数据](https://www.ithome.com/1/033/824.htm)
+3. [Galaxy S27 系列手机专享，三星 One UI 9.5 Beta 曝光 36 项 AI 新功能](https://www.ithome.com/1/033/822.htm)
+4. [影石 Ace Pro 3 被曝采用 1/1.1 英寸方形传感器、双 OLED 屏、2250mAh 电池，12 月 1 日发布](https://www.ithome.com/1/033/821.htm)
+5. [三星 One UI 9.5 酝酿贴心功能：手机忘记充电，系统会提醒你](https://www.ithome.com/1/033/820.htm)
+6. [迈从 Ace 68 GT 绯刃银版开售：全铝 16K 磁轴，到手价 881.18 元](https://www.ithome.com/1/033/819.htm)
+7. [“GTA 6 终于来了”：微软 GitHub 力挺 PS5 转 PC 工具惹争议，官方火速删除推文](https://www.ithome.com/1/033/818.htm)
+8. [歼-35A 飞抵珠海将首次以真机形式进馆展出，12 月 7 日航展开幕](https://www.ithome.com/1/033/817.htm)
+9. [广汽弹匣电池 3.0 亮相广州车展：底部防护 2000J、手榴弹爆破不起火](https://www.ithome.com/1/033/815.htm)
+10. [CounterPoint：京东方若合并维信诺，AMOLED 面板份额将位列第二仅次三星显示](https://www.ithome.com/1/033/811.htm)
 
 ## 少数派
 
-1. [「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/119601)
-2. [派早报：1Password 确认内部系统遭入侵等](https://sspai.com/post/119632)
-3. [App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具](https://sspai.com/post/116773)
-4. [论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图](https://sspai.com/post/119563)
-5. [我用AI做了一张两千年的中国历史地图](https://sspai.com/post/117510)
-6. [派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等](https://sspai.com/post/119560)
-7. [翻开 2027， 值得入手的新年日历推荐](https://sspai.com/post/119264)
-8. [App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你](https://sspai.com/post/119310)
-9. [怀旧手记｜Palm Pre：内藏「划时代」系统的手机](https://sspai.com/post/118791)
-10. [社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同](https://sspai.com/post/119492)
+1. [「黑五」值得买：不容错过的数码硬件优惠](https://sspai.com/post/119651)
+2. [本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限](https://sspai.com/post/119686)
+3. [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/119658)
+4. [「黑五」值得买：不容错过的 App 和服务优惠](https://sspai.com/post/119601)
+5. [派早报：1Password 确认内部系统遭入侵等](https://sspai.com/post/119632)
+6. [App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具](https://sspai.com/post/116773)
+7. [论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图](https://sspai.com/post/119563)
+8. [我用AI做了一张两千年的中国历史地图](https://sspai.com/post/117510)
+9. [派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等](https://sspai.com/post/119560)
+10. [翻开 2027， 值得入手的新年日历推荐](https://sspai.com/post/119264)
 
 ## 爱范儿
 
-1. [Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了](https://www.ifanr.com/1695671?utm_source=rss&utm_medium=rss&utm_campaign)
-2. [华为 Mate X8 评测：终局之战](https://www.ifanr.com/1695642?utm_source=rss&utm_medium=rss&utm_campaign)
-3. [早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记](https://www.ifanr.com/1695611?utm_source=rss&utm_medium=rss&utm_campaign)
-4. [2026 年，国产模型还能追上 Opus 5.5 吗](https://www.ifanr.com/1695555?utm_source=rss&utm_medium=rss&utm_campaign)
-5. [ChatGPT即将到来的大更新，为何让老用户集体破防](https://www.ifanr.com/1695589?utm_source=rss&utm_medium=rss&utm_campaign)
-6. [荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类](https://www.ifanr.com/1695371?utm_source=rss&utm_medium=rss&utm_campaign)
-7. [首款鸿蒙小折叠电脑正式发布，生态创新重新定义折叠电脑体验](https://www.ifanr.com/1695349?utm_source=rss&utm_medium=rss&utm_campaign)
-8. [OPPO Reno17 Pro 体验：在手机里装进一只猫，分几步？](https://www.ifanr.com/1691222?utm_source=rss&utm_medium=rss&utm_campaign)
-9. [专访《影之刃零》梁其伟：我想让年轻人觉得，中国功夫很酷丨多样性公司](https://www.ifanr.com/1695256?utm_source=rss&utm_medium=rss&utm_campaign)
-10. [Robotaxi 即将开启无人运营、机器人脱稿演讲，小鹏科技日迎来了自己的「奇点时刻」](https://www.ifanr.com/1695212?utm_source=rss&utm_medium=rss&utm_campaign)
+1. [24.99 万元起！宝马新世代 i3 正式上市，纯电续航高达 1028km丨广州车展](https://www.ifanr.com/1695987?utm_source=rss&utm_medium=rss&utm_campaign)
+2. [9.69 万元，奇瑞 QQ3 变身一辆可以开咖啡馆的「QQ 啡车」丨广州车展](https://www.ifanr.com/1695964?utm_source=rss&utm_medium=rss&utm_campaign)
+3. [从「中国特供」变全球旗舰，搭载 Momenta 智驾的本田冠道来了｜广州车展](https://www.ifanr.com/1695948?utm_source=rss&utm_medium=rss&utm_campaign)
+4. [启源 Q06 迎来大升级！长安发布天枢领航 Ultra 2.0，明年 1 月推车位到车位｜广州车展](https://www.ifanr.com/1695936?utm_source=rss&utm_medium=rss&utm_campaign)
+5. [捷途纵横 R700 发布：华为乾崑智驾配大梁，家用硬派两手抓｜广州车展](https://www.ifanr.com/1695926?utm_source=rss&utm_medium=rss&utm_campaign)
+6. [43.99 万元，只有一个配置，岚图泰山纯电版带来了三腔空悬｜广州车展](https://www.ifanr.com/1695915?utm_source=rss&utm_medium=rss&utm_campaign)
+7. [限时 11.99 万元起，日产 NX7 标配宁德时代电池，还有Momenta 智驾｜广州车展](https://www.ifanr.com/1695904?utm_source=rss&utm_medium=rss&utm_campaign)
+8. [Agent 上车元年，支付宝造了一个行动座舱](https://www.ifanr.com/1695888?utm_source=rss&utm_medium=rss&utm_campaign)
+9. [阿维塔 T09 中国首秀，这是一辆可以在四座和六座之间切换的旗舰 SUV丨广州车展](https://www.ifanr.com/1695875?utm_source=rss&utm_medium=rss&utm_campaign)
+10. [Claude Opus 5.6 做出了史上最牛的 PPT，直接杀死比赛？](https://www.ifanr.com/1695831?utm_source=rss&utm_medium=rss&utm_campaign)
 
 ## 钛媒体
 
-1. [腾讯阿里百度集体交账，AI进入兑现期](https://www.tmtpost.com/8219613.html)
-2. [从410亿美元收购，看MNC“算账”哲学](https://www.tmtpost.com/8219437.html)
-3. [时隔一年，小鹏机器人再登台，何小鹏又哽咽了！](https://www.tmtpost.com/8219499.html)
-4. [实测智谱GLM5.4｜雷霆大思考：想得确实多，干活确实慢](https://www.tmtpost.com/8219494.html)
-5. [一场物理AI闭门会里的三层“温差”](https://www.tmtpost.com/8218564.html)
-6. [白酒的“去库存周期”走到哪了？](https://www.tmtpost.com/8219964.html)
-7. [功臣不封侯，字节无山头](https://www.tmtpost.com/8219495.html)
-8. [独家 |  在看不见“真人”的红果，人怎么赚钱](https://www.tmtpost.com/8220004.html)
-9. [比亚迪开始买欧洲工厂：中国汽车出海，进入下半场](https://www.tmtpost.com/8219833.html)
-10. [炎症性肠病之争，绕不开的艾伯维](https://www.tmtpost.com/8219400.html)
+1. [AI服务器卖爆了，但卖服务器的不赚钱了：股价跌一半，市场在清算什么](https://www.tmtpost.com/8221273.html)
+2. [《复联5》要来救市了](https://www.tmtpost.com/8221005.html)
+3. [“争议”总经理上任176天“闪辞”，水井坊6年已换8帅](https://www.tmtpost.com/8221007.html)
+4. [OpenAI 和 Anthropic 在招什么样的营销人才？](https://www.tmtpost.com/8221003.html)
+5. [半年亏5亿、自有品牌销售占3.6%，大润发凭什么留住顾客？](https://www.tmtpost.com/8220992.html)
+6. [港交所科技100指数大换血：六进七出，中国科技资产正在重新定价](https://www.tmtpost.com/8220989.html)
+7. [客户不买单，具身智能的“第一”还值几个钱？](https://www.tmtpost.com/8220898.html)
+8. [从2026广州车展，看汽车产业链的权力位移](https://www.tmtpost.com/8220706.html)
+9. [先别急着让宿华表演“黄仁勋回宫”](https://www.tmtpost.com/8220747.html)
+10. [中国客车出海，遇到了比关税更复杂的壁垒](https://www.tmtpost.com/8220984.html)
 
 ## 雷锋网
 
-1. [吉翼智能首登高交会，新模型、新本体、双场景三箭齐发](https://www.leiphone.com/category/industrynews/VZZDjKdc8UxwaG2U.html)
-2. [江行智能基模 CTO 陈龙：当「物理 AI 大脑」进厂，如何实现可靠落地？| ACM MM 2026](https://www.leiphone.com/category/private/O7QLSVU8zvpfzY6B.html)
-3. [xAI 三杰造了台「互联网时光机」：AI 能预测未来，才是真正的智能？](https://www.leiphone.com/category/yanxishe/e60A2os7y71EKeLI.html)
-4. [RoboScience 机器科学发布 GenSight：如何在一个模型，搞定生成和感知？](https://www.leiphone.com/category/ai/yVUjZ1Pgo80vJ5T0.html)
-5. [深耕核心零部件，钛虎机器人轻量化关节模组Lite-1系列助力整机降本增效](https://www.leiphone.com/category/industrynews/hYv4Caentt6byJhj.html)
-6. [直播 25 天训出一个模型，五项登顶，一群 00 后的 Physical AI 实验](https://www.leiphone.com/category/ai/0DEts3fxmZTZ7ojp.html)
-7. [美团闪购联合行业头部品牌成立水果即时零售品质联盟，发起好商品计划“即鲜时刻”](https://www.leiphone.com/category/industrynews/sbqPRelP6WnxXGKx.html)
-8. [蔚来到底应该值多少钱？](https://www.leiphone.com/category/transportation/BqLLEaO4CLvE4tnG.html)
-9. [美团：预计到今年年底，妙手酒店版·既白将覆盖近40万商家](https://www.leiphone.com/category/industrynews/V8W9L3t0BkCtFZPu.html)
-10. [纯电大型SUV最高评级，乐道L90中保研五项指数全优](https://www.leiphone.com/category/industrynews/E8w1PtM3ODZyeSyF.html)
+1. [双城联动首发｜共绩算力云平台，一站式跑通 AI 训推全流程](https://www.leiphone.com/category/industrynews/mFpSlgs8pnwUk320.html)
+2. [独家丨瞄准 AI 算力天花板，「闪科光联」完成数千万融资](https://www.leiphone.com/category/ai/ilqJyKclWkhaWIps.html)
+3. [独家丨自研微水洗澡机，「润泽智造」拿下数百万元天使轮融资](https://www.leiphone.com/category/weiwu/TThdKrM8psZJIudr.html)
+4. [美团财报电话会：Keeta沙特实现全季度盈利](https://www.leiphone.com/category/industrynews/bNneZTVQVkQBiKrH.html)
+5. [美团电话会：预期四季度餐饮外卖UE较二季度明显提升](https://www.leiphone.com/category/industrynews/vNOSrpDD4d2w5DYL.html)
+6. [美团2026年三季报：营收1156亿元，AI经营工作台“妙手”已服务200万商家](https://www.leiphone.com/category/industrynews/iJ0tw7k1kHDs5zjT.html)
+7. [支付宝车载助手3.0发布，助力智能座舱打造下一代可靠可信生活服务](https://www.leiphone.com/category/industrynews/szJUnXEhChJQgJHZ.html)
+8. [具微科技高交会双新品首秀，全栈方案破解工业机器人连续作业难题](https://www.leiphone.com/category/robot/UTZbbw7CrHpZvIS7.html)
+9. [Anthropic 放出 Claude Ship：内部 PR 合并量 3 个月翻倍，回滚比例下降超 40%](https://www.leiphone.com/category/ai/iWUKWuRp4AmJ6dZE.html)
+10. [OpenAI、Anthropic 内部出现分歧：AI 能力增长太快，模型隐藏行为，监测开始系统失灵？](https://www.leiphone.com/category/ai/IMi92BFX4KU0R8uh.html)
 
 ## V2EX 热议
 
-1. [美股同学看过来，需要老雷交易笔记的可以留下联系方式，私信](https://www.v2ex.com/t/1259982) 「股票」 — 💬 257
-2. [2026 赣南脐橙给 v 友抽几箱](https://www.v2ex.com/t/1260059) 「推广」 — 💬 230
-3. [网传 Hysteria 的多名代码贡献者已经被抓](https://www.v2ex.com/t/1260196) 「信息安全」 — 💬 66
-4. [周五好，大家周末打算干啥](https://www.v2ex.com/t/1260212) 「生活」 — 💬 55
-5. [感觉网易 uu 也可以下课了...](https://www.v2ex.com/t/1260114) 「程序员」 — 💬 52
-6. [​银杏树下的汉服少女](https://www.v2ex.com/t/1259987) 「摄影」 — 💬 47
+1. [为何新出的手机完全不支持 tf 卡了？](https://www.v2ex.com/t/1260288) 「程序员」 — 💬 99
+2. [新用户黑五 Google AI Pro 优惠](https://www.v2ex.com/t/1260358) 「Google」 — 💬 54
+3. [公司每个月只交 299 元公积金，剩下的都是我自己补的，一审法院却说这事不归法院管？](https://www.v2ex.com/t/1260356) 「职场话题」 — 💬 51
+4. [卧槽了，真的是一阳改三观？](https://www.v2ex.com/t/1260303) 「投资」 — 💬 44
+5. [有没有已经“退休”的哥们，讲讲你们每天都干些什么？](https://www.v2ex.com/t/1260294) 「生活」 — 💬 43
+6. [建议大家理性上车年付的 AI 订阅](https://www.v2ex.com/t/1260372) 「程序员」 — 💬 40
 
 ## Hacker News
 
-1. [Google will show solo Android developers' phone numbers and addresses](https://support.google.com/googleplay/android-developer/answer/17594752?hl=en)
-2. [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)
-3. [ESO statement on approval of launch of one million space data centres](https://www.eso.org/public/news/eso2614/)
-4. [AI agents now control part of DeepMind's compute for Gemini experiments](https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/)
-5. [Novita, StreamLake, etc. are ByteDance Ark wrappers](https://kendell.dev/blog/arkwrapper/)
-6. [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
-7. [Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
-8. [Company Culture = Slack Emoji ÷ √Headcount](https://lia.mg/posts/measuring-company-culture-with-slack-emoji/)
+1. [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev)
+2. [Atari Homebrew Awards Cancelled](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/)
+3. [Woman evicted after landlord's AI assistant told her she could delay rent](https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai)
+4. [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
+5. [Tabernetes: A Kubernetes cluster whose nodes are browser tabs](https://tabernet.es/)
+6. [Source Control from Hell](https://frantic.im/git/)
+7. [9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)
+8. [SessionGraph: Visualize all your coding agent sessions in one interactive graph](https://sessiongraph.ai/)
 
 ## TechCrunch
 
@@ -102,19 +102,19 @@
 
 ## The Verge
 
-1. [Netflix’s coziest show has made a very quiet return](https://www.theverge.com/entertainment/1043489/midnight-diner-season3)
-2. [The Garmin Forerunner 265S is down to $300, its best price of the year](https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday)
-3. [The MacBook Neo is receiving a rare $100 discount for Black Friday](https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale)
-4. [Android app developers will soon have to share their address publicly](https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu)
-5. [The best Black Friday deals we’ve already found](https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026)
+1. [The M5 MacBook Air just got its biggest discount since Apple raised the price](https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale)
+2. [The absolute best Black Friday deals you can still get](https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas)
+3. [We found 60-odd Black Friday deals we love for $100 or less](https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026)
+4. [This purple electric Chinese minivan can go up to 559 miles on a charge](https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge)
+5. [The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear](https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026)
 
 ## Ars Technica
 
-1. [Ford unveils the GT41 as it hopes to win Le Mans again](https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/)
-2. [Draining peatlands is responsible for a few percent of our global warming](https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/)
-3. [From minimalist to maximalist: Ars staffers show off their home offices](https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/)
-4. [European spacecraft finds chaotic scene after asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
-5. [Google search alternative Kagi launches Gmail rival](https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/)
+1. [The best Black Friday deals Ars could find](https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/)
+2. [Intel faced a choice: Give Trump 10% or face the consequences](https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/)
+3. [Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026](https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/)
+4. [Volvo's big batteries: We drive its updated 2028 plug-in hybrids](https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/)
+5. [Ford unveils the GT41 as it hopes to win Le Mans again](https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/)
 
 ## GitHub Blog
 
@@ -129,6 +129,7 @@
 
 ## 历史归档
 
+- [2026-11-28](reports/2026-11-28.md)
 - [2026-11-27](reports/2026-11-27.md)
 - [2026-11-26](reports/2026-11-26.md)
 - [2026-11-25](reports/2026-11-25.md)
@@ -158,7 +159,6 @@
 - [2026-11-01](reports/2026-11-01.md)
 - [2026-10-31](reports/2026-10-31.md)
 - [2026-10-30](reports/2026-10-30.md)
-- [2026-10-29](reports/2026-10-29.md)
 
 ## 快速开始
 
